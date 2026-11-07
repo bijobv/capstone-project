@@ -1,0 +1,9 @@
+{
+  "n_steps": 1036,
+  "n_tasks": 131,
+  "ranker_recall_at_k_empirical": 0.9411196911196911,
+  "element_accuracy": 0.5057915057915058,
+  "operation_f1_macro": 0.7204007763544222,
+  "step_success_rate": 0.4555984555984556,
+  "task_success_rate": 0.07633587786259542
+}

@@ -1,0 +1,414 @@
+split,website,subdomain,annotation_id,task,num_steps
+train,kohls,Department,bf469f30-6628-4017-b963-672645d7feab,Find the highest rated dog collar under 10 dollar.,10
+train,underarmour,Fashion,46a3683f-fbe0-40d0-8729-6c7964d994e6,Find a men's UA outlet T-shirt of XL size and add to cart.,11
+train,kohls,Department,4b2030ff-b83c-445f-bf87-9c8fbc68498b,Browse for wall art with a price range of $25 to $50.,5
+train,kohls,Department,4bc70fa1-e817-405f-b113-0919e8e94205,Add the cheapest Women's Sweaters to my shopping cart.,7
+train,amazon,General,f754d919-2191-464e-a407-0f3da9409081,See today's deals on video games and find the best deal on the lowest-priced mouse.,9
+train,amazon,General,fc21339a-5dc0-489c-b348-2fac79483f76,Find Metformin 1000mg tablet price and details.,7
+train,kohls,Department,1c8b3d98-ffcf-42b9-ae0b-73d22d87bad7,Add a pair of diamond stud earrings to the cart.,4
+train,underarmour,Fashion,6407babe-fe48-492a-8211-1f22a81b9ac0,Find men's running shoes of size 9 with lowest price and add to bag.,10
+train,carmax,Auto,8e721b00-f406-449b-9885-0267b47ecfdb,Search for used Jaguar XFs with no black exterior color and save the search as Jaguar  to get a notification daily.,10
+train,kohls,Department,5a15ea92-571d-4a45-ad18-5b4eddbc70a6,Get the lowest priced plus size one piece active swimsuit in color black.,10
+train,underarmour,Fashion,5e47dc3e-2a4a-4273-871d-dfdb33b091d5,Filter women's sports bras that are purple  with high support that are small size.,11
+train,rei,Speciality,70b3ef5b-d900-44cf-9b62-9ecece97954c,Find climbing gear and sort the results by price high to low.,5
+train,newegg,Digital,987b25a8-05af-4b18-bd5b-7e2ccba5fb1e,Add Western Digital internal SSD with 1TB storage and 8GB Ram DDR to the cart.,12
+train,instacart,General,14a4e19d-d82d-45dd-b4f0-6b60ed87d085,Find nearest Sprouts Farmers Market and add two fruits and one sauce from the deals.,6
+train,instacart,General,15a0ffe5-8462-4a8e-8938-91b05a40756f,"Add a new address to the account. The address is 2983 Marietta Street,  APT 2. Business name is Buck.",6
+train,instacart,General,277bdab6-e924-45dd-ba26-d659d864d671,Add 2 different flavor dog treats and one dog food with lowest price to cart from Safeway.,9
+train,uniqlo,Fashion,13f1648c-9de8-497d-bed3-02096206dc5f,Add two pairs of women's Pink sweet pants in XXL size to your cart and view your cart.,13
+train,tesla,Auto,851ed4e6-51ee-47ad-a861-a28bdc61a102,Open the page to schedule a Model X test drive.,3
+train,tesla,Auto,8e7b05d4-7dfb-4345-af2b-3e1dcd1c2ea2,Show me a map with charging stations in London.,5
+train,tesla,Auto,9cd20dc6-d2a5-4e8f-9252-549f2c51413c,"View inventory of Tesla Model S that are blue and new with 19"" wheels within 50 miles of zip code 60602.",6
+train,tesla,Auto,cdbd410d-170a-426d-b6d2-60dafaffe853,Show me the best seller accessories for the Model X,3
+train,tesla,Auto,e12f51f6-c8c5-4a68-9586-d77927bca79c,Add a Tesla Shop Gift Card for April May with the email april.may@gmail.com to my cart,6
+train,tesla,Auto,e2142cde-5bec-46ee-8d17-9b6ee52a66e8,Show me the inventory of the Tesla Model S within 200 miles from 10001,4
+train,tesla,Auto,e6bdb364-4327-44f0-a6d8-94eb00b36ca7,Go to the page with help in choosing a solar energy product for homes.,4
+train,tesla,Auto,fdc94e3a-caa3-42b0-aa1b-b99f728f6292,"Schedule a demo drive for Model Y for Roy Adams with phone number 123-999-0000, email address RA@gmail.com and zip code 90001 in the United States.",8
+train,newegg,Digital,17fffbee-e41b-46e4-ab75-675b263ca7b7,Find the cheapest power supply unit with at least 600W power output.,5
+train,uniqlo,Fashion,08a998f9-82f7-48c8-b6ba-72a58d39b457,"Find all Uniqlo's located in Chicago, IL.",5
+train,uniqlo,Fashion,099a9da4-c8db-4900-ada2-76600f3655a4,Show me the list of baby products that are on sale and under 10 dollars.,4
+train,uniqlo,Fashion,122178b3-b5d4-41f0-be38-150ca0e2f5ed,Find a black blazer for men with L size and add to wishlist.,13
+train,gamestop,Speciality,91e18ec8-5eae-4b14-a49e-9ed7ee1ebb10,Show me the list of playstation 5 games available for pre-orders.,6
+train,gamestop,Speciality,9653dc0d-96d9-414f-a711-3af94bd7cf5b,sell playstation controller for cash credit on GameStop in 43240.,8
+train,gamestop,Speciality,981fdb06-2352-439f-a6d0-ccaa857c7a54,Find the trade-in options for PS4.,5
+train,rei,Speciality,af6655c8-0047-4c93-8da2-aeb04ff06b17,Browse climbing courses within 50 miles of 90028.,5
+train,underarmour,Fashion,ebae9339-93bf-4f5a-9396-ce30bcec7b49,Find the price of Boys' INFANT UA SURGE 3 RUNNING SHOES. black color and 9K size,8
+train,newegg,Digital,2fc63250-ac9a-4cd4-a29d-6460f0652fa3,Find a wireless keyboard and mouse combo under $100.,5
+train,underarmour,Fashion,35cf31d3-c88d-45fe-9959-4cf1de72bc7d,Browse for trending women sports bras and add 3 trending black bras to Wishlist.,7
+train,bookdepository,Speciality,dd057bda-33ea-40b8-9865-771242e22f40,Browse fiction audio books sorted by lowest price.,4
+train,bookdepository,Speciality,f296f6a6-dbb7-47dd-bd6f-4ac2336a7d28,Check the French best sellers under $40 available in digital that are currently in stock.,6
+train,cvs,Speciality,95499427-980a-4115-b1aa-6b252b4fb2c3,Browse cough medicine that is rated 4 stars and above and is $15-$20.,4
+train,target,General,274571ea-fc2f-4353-86ba-00ecb112d6d2,"Find multi-colored fillable eggs for easter eggs made from polypropylene priced between 5 to 10 dollars for pick-up from Barboursville, zip 25504.",25
+train,amazon,General,e62bcf45-0be3-4195-b234-37755d6d715e,Find a book by Sam Harris that has a rating of at least 4 stars and is available in paperback format.,5
+train,amazon,General,f57e6c0a-8f8b-4756-9f1d-1bdea7a0af5c,Add a pack of toilet paper and a bottle of laundry detergent to your Amazon cart with the lowest total price.,10
+train,underarmour,Fashion,440273fa-f1b0-41e8-be75-90732ad5170d,Find the Mens size guide for bottoms,3
+train,cargurus,Auto,36b86ab8-a448-46f7-813f-3e3b5c3d687c,"find offer for a black Honda with vin number 1HGCM66543A064159 with 155000 millage near 49102. The car should be in good condition with no damage, 2+ keys and paid off.",23
+train,ebay,General,1f128c19-3093-4c49-bfc7-13589aa8e88a,Get a Hasbro Hulk action figure manufactured in 1990 with the lowest price + shipping.,12
+train,ebay,General,270c18c6-b3cf-4409-ba6b-18160525692f,Find the cheapest used and working  Nintendo Switch for under $400 that can be bought right now.,9
+train,bookdepository,Speciality,58f811fd-0f17-430b-befc-885605e13e41,Cancel an order with order number X123456 of Harry Potter Box Set as not available at address.,8
+train,rei,Speciality,4e3cc9e2-baf7-449f-bf61-919eb773f29c,Find Travel Pack for hiking.,3
+train,rei,Speciality,d6c1c4f5-74a7-4451-8dd2-aabada5d7ba1,Find rental charges for bikes in 37863.,6
+train,cvs,Speciality,2281faf9-ff02-42e3-b785-8bcc3a0e530a,Look up information on the potential side effects of rogaine.,3
+train,cvs,Speciality,27724810-0bc8-446a-a2f4-b53a87e190df,Find the location and operating hours of the nearest CVS pharmacy to zip code 90028,3
+train,cvs,Speciality,51e85ea8-7a75-40f3-8f35-ed255f87171f,Add to cart 2 bottles of vitamin D that are buy 1 get 1 free and new arrival.,7
+train,newegg,Digital,2a7f7732-ec9b-4d78-91ad-f0fe10bf7daf,Find a gaming pc which can run Call of Duty Warzone at 4k.,5
+train,uniqlo,Fashion,f1f4e4f7-3fb0-4aeb-8123-4882a1f39cb2,Find the new arrival of kids graphic t-shirt for 13 years old boy,7
+train,cvs,Speciality,978376c1-8545-4160-81d5-722bdea60434,Start the process to sign up for CVS ExtraCare,3
+train,cvs,Speciality,9a9b1b45-cb23-4073-897f-67410087df9d,Schedule COVID-19 test appointment at 90028.,4
+train,cvs,Speciality,bb7c3e38-dd9c-4472-9774-0012586a1dcd,"Show weekly deals of Columbus, Oh 43215 store.",4
+train,newegg,Digital,e344b89e-767a-4618-ba82-4b81cdcba280,add a motherboard under $200 and a compatible processor at any price to the shopping cart.,8
+train,tesla,Auto,71638c81-42f0-4218-a1b0-d3a137ad1cff,Check the price of Tesla Model Y Performance for the 10001 zip code.,6
+train,rei,Speciality,1bf4f465-99cb-483b-aac1-a7512b150755,Find a hydropack and make  the results to show only items that have a capacity of 21 to 35L.,3
+train,rei,Speciality,277a776a-b335-4761-a543-bed1c6eca1d6,Search for kayaks and filter the results to show only those that are suitable for whitewater rapids.,4
+train,kbb,Auto,f1db33c6-c414-438b-bbfc-cdaa6cfc6b68,Check reviews for best electric SUV and find the 1 star rated review and mark it helpful.,7
+train,kbb,Auto,fb9c0e7f-02dd-453f-8c73-da19282abf84,Find a Ford Mustang with lowest price and save it.,8
+train,underarmour,Fashion,73cf6eec-cae6-4d5b-9b8e-e44359311565,Sign up for the newsletter,2
+train,underarmour,Fashion,90bd64ec-d48e-4796-a4e2-c46b866093c2,Search for newest girls' training  leggings in size yxl and save the top three results.,16
+train,bookdepository,Speciality,bd2b5866-dced-4ec1-8b3e-8a8a24e71a96,Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.,10
+train,bookdepository,Speciality,c1a354a1-7990-4ca8-9fc5-2fdb1b5df337,Find a book in Hindi with ISBN 1648926800.,5
+train,ikea,Speciality,d78e3aac-c01b-4ebb-957d-e70f8bb378f3,Open the design tool for a new home office.,2
+train,tesla,Auto,642ac4f9-dea1-4c10-89a5-208238a2c6e9,Find a red used tesla Model S.,4
+train,cargurus,Auto,c44cfc8c-abea-4eef-838a-ba3a2716f8fa,calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.,6
+train,cargurus,Auto,cc643c1f-e73e-4e9f-abe9-5ee2d3b0a0dd,Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.,9
+train,uniqlo,Fashion,ccf98191-100e-441a-93e8-8ff4076aeaa0,Add to my cart a women's T-shirt priced under 10 dollars,8
+train,gamestop,Speciality,000c2828-e8ce-4b18-bfe0-89ed333add06,"Buy a $25 digital gift card for Tim Stebee, whose email address is scisoorbros@gmail.com. Fill in sender name Jeerimiah Waton",6
+train,gamestop,Speciality,13cf0b14-422b-4486-841a-aa9ded048380,find kinect camera for xbox one.,3
+train,gamestop,Speciality,1a2befd0-5e90-4bed-81b5-8ee0a93873df,Show me RPG video games.,8
+train,cabelas,Speciality,619ba95b-5a27-4c53-841c-edc281aacf7a,Add a dome tent to my shopping cart.,6
+train,kbb,Auto,3d77584f-9074-46db-bd1e-086a506b54d3,"Search for the cheapest third-party certified front-wheel driving automatic white car for sale near Tampa, Florida with online paperwork and no accidents, confirm availability with my details.",15
+train,menards,Speciality,1bd729e8-abb2-4649-bb81-8c790c04f8ad,"Find a multi-purpose painting tool available for pick up at zip 44240, if the brand Red Devil is available, add the cheapest one to the wishlist and view my complete wish list.",11
+train,menards,Speciality,e224beac-a998-41e4-abd1-5370196ce9df,"Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.",11
+train,rei,Speciality,09675529-c12d-42dc-a260-c1e046f87256,"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789",11
+train,rei,Speciality,0ff1648e-28bb-4014-9b8a-3c050c25e334,Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.,5
+train,ikea,Speciality,f118238f-ef8f-4b63-9159-a81e981ef46e,Add decorative LED Candles to the cart.,6
+train,ikea,Speciality,ff173880-e7f5-4b4e-b941-79e9c3504add,Find wall mirrors for under $20.,8
+train,underarmour,Fashion,cdd64586-2f2e-4000-89fa-200feefcd97d,Find newly arrived Batting Gloves for women,5
+train,underarmour,Fashion,eb609e15-ff10-4b3d-82ce-348c439548ca,Shop for UA outlet clothing and find a outdoor sports jacket in size ymd.,11
+train,apple,Digital,2a8ae104-6f06-47cb-80a0-045188125868,Find the Display details of new lanched iPad pro 11-inch,3
+train,target,General,08f78082-3408-4714-99ea-5a699840317d,Find a store in Magnolia Texas.,4
+train,amazon,General,1c6bfd10-4dcb-4a5c-bb2d-922ff9f20087,"Look for an English language book on roman empire history in the Kindle store released in the last 90 days, it should be displayed according to its latest publication date, and add the top result to the shopping list.",13
+train,ebay,General,aaade1d2-3a7b-4373-be01-ef98ed86288e,Find the cheapest new  trash can with automated lid that is under $60 and available for Buy It Now.,12
+train,cabelas,Speciality,373dec75-7278-4d12-bcc3-0e802e337c4a,"search for Tree stands with at least 3 stars, and sort the results by price from low to high.",6
+train,cabelas,Speciality,3f62b47b-876b-487e-8681-63e80555938d,Search and view the details of  32-inch medium-light fishing rod for ice fishing available in stock under 100 dollars with an average rating of 4 and above.,15
+train,kbb,Auto,a67318a4-5049-4ac5-8c6b-c14fc527483f,Browse used BWM cars made in 2010 and compare the four cheapest listings,11
+train,kbb,Auto,ca049641-9721-4593-95c5-a47e22365b5b,"Find the cheapest new electric car with highest ev mile range per charge, see the details of the top result.",9
+train,kohls,Department,33b57a14-f469-405c-8843-f7e8ceb5b1ed,Add 10 of the cheapest green shirt to my cart,7
+train,kohls,Department,47072aee-1cb7-436c-8dc6-b2a6d109a100,Browse black strollers within $100 to $250.,4
+train,bookdepository,Speciality,cf8b2846-ac33-46aa-887c-174de6184057,Show status of my order with order number X123456789 and email buckeye.foobar@gmail.com,4
+train,bookdepository,Speciality,db72bae1-ff16-495c-89c7-1cff7c0ae503,check the most popular Spanish recipe book available in paperback that are in stock.,6
+train,carmax,Auto,706d0ccd-c0ec-423d-88c0-a5716700a855,Search for used BMW X5 Crossovers and compare the mileage of the first two cars.,13
+train,carmax,Auto,76294719-e146-4f92-986f-42b86a9808c7,"Find a store in Los Angeles, California, and set Riverside as my store and add a card from that store to my favorites",6
+train,carmax,Auto,8710addc-5ff3-4aaf-b397-4c6165f285ee,Show me the service options for cars under warranty.,3
+train,carmax,Auto,8ab1c90f-52e0-4c07-9d41-d44c75c25c5e,"Search for an automatic grey sports car with the lowest price, gas fuel and free shipping manufactured between 2018 to 2022, compare the top two results and compare photos.",29
+train,underarmour,Fashion,ccb7c231-8655-4613-a28f-beb8074c523e,find the Under Armour Return Policy for Men's UA Football All Over Print Metal Logo Short Sleeve,7
+train,instacart,General,51fce1f7-566e-4ae4-89a4-dea4d0ec569e,Find an available wine at Kroger.,4
+train,newegg,Digital,549a9805-e404-4dcf-8c72-ddf46471114b,Compare two wireless printers that are rated above 4 stars.,8
+train,target,General,44bde32f-12bd-4c70-a1a5-37bdadfe872b,Find target branded sprinkles for easter baking,7
+train,target,General,632bb279-036c-48e5-b40a-962b2e90d6d1,Browse winter coats featured in the weekly ad and is at least 15% off.,8
+train,target,General,6803cd71-78a9-4bff-a1a3-1153dcc28c11,Find organic dog food and add it to the cart.,4
+train,uniqlo,Fashion,ddcbce13-4c42-4c40-99ab-2c58588f1ccf,Find Mens orange color Jacket and parkas with L  Size and add to cart,6
+train,uniqlo,Fashion,ddd935d4-9c28-4e64-bb4f-91ad1cb974dc,"See in the Men's sale if any L-sized t-shirt in blue color is available or not, if available, add one to the cart choose pick in store for zip 10005.",20
+train,kbb,Auto,d3a4e6c3-65e8-46f7-8dd7-439bc559af2a,Find value of 2016 Toyota Camry XLE Sedan 4D in black color with number plate AZXA46.,19
+train,kbb,Auto,e2f8b054-59b5-4fd8-bd58-9f95b29f979d,Find cheapest 2018 Honda Civic for sale within 100 miles of 07055,9
+train,gamestop,Speciality,2705de3e-4461-4668-8573-8f10c1eb6641,Find a low-priced refurbished Microsoft Xbox one console in white color and available in stock.,16
+train,bookdepository,Speciality,01dcf2f1-0b80-4819-a4d1-5063062d1aa5,Search for Romantic Audio fiction books with the lowest price.,5
+train,bookdepository,Speciality,0a2130e7-1108-4281-8772-25c8671fb88e,"Search for a non-fiction children's book for ages 9-11 on the topic of history in the Hindi language, and add the top book to the cart, if not available choose notify me option and also add the book to new wishlist must buy.",11
+train,uniqlo,Fashion,cbfa5c92-41cb-4481-97b2-9fb41298be13,"Find a wireless bra in size xxs or  s, add one brown and one purple color to the cart and view the total cart value.",16
+train,carmax,Auto,b7082615-e6e1-4981-b51b-9259671d1adf,Change your store to the one nearest to 07055,5
+train,carmax,Auto,cdd9ef05-4d5b-4469-b001-8d73b6dc8120,Find the documents required to sell a car in New Jersey for which payments are being paid and it has single person on the title who can come to the store,6
+train,ebay,General,a2b1d94b-5309-4c9b-bcdd-8048172af7b5,Find an foldable over-ear headphone under 35 USD in certified refurbished condition with lowest price + shipping.,11
+train,ebay,General,a3bc6528-5fd5-45ac-81aa-7fafde757022,Browse new laptops from $400 to $500 that offers free shippping.,7
+train,ebay,General,a8474730-82eb-4f12-b947-db64ac08660b,Find the most recently posted job opening in customer service in Ireland with a remote working option.,8
+train,newegg,Digital,747429fa-7dac-4ab0-b604-13cb9bf787fe,Find the cheapest unused wireless Logitech Keyboard under $70.,10
+train,cargurus,Auto,998e55fb-66d7-443f-bb73-9cb6a2bc26a8,Find used BMW i3 for 10001 zip code with lowest price.,6
+train,cargurus,Auto,99b9a850-d5e3-4ecc-b1eb-99a5c5029918,Show all used Tesla cars for 10017 zip code.,3
+train,cargurus,Auto,b1eb6602-3aa7-40ee-8968-69d83e7ef21c,Find the newest silver-colored Lexus SUV with a black interior and backup camera to purchase which has been made between 2022-2023 and is within 50 miles of zip 10017.,14
+train,rei,Speciality,7a40f4c8-7aa6-4be4-abbe-24a0b511dc0e,Search for hiking boots and filter the results to show only those with a waterproof rating of at least 3 stars.,4
+train,gamestop,Speciality,a3fc5023-1198-4c17-8c1f-45780ab7f3bd,Search for the latest deluxe digital copy of the Xbox Series X Resident Evil game for pre-order and add it to the cart.,13
+train,carmax,Auto,0790c8be-6e6d-4e2a-9c13-43ac9367da4c,"search the most recent full time Accounting & Finance Job available in Richmond, Virginia.",8
+train,carmax,Auto,10e17667-f9cf-4a68-adcd-ad2677c3f385,Find series 1 and series 2 BMW vehicles in the store nearest to 07055,16
+train,newegg,Digital,05c4da5b-263d-40a4-9982-6cf6311b57a1,Find an Xbox Wireless controller rated above 4 stars.,6
+train,newegg,Digital,51d2bb04-8207-4c21-8bc3-c00d826a5d0c,Remove the SSD on my cart,2
+train,newegg,Digital,8368b990-c6ca-4cfe-a7ab-c2a88697639d,"Build a PC with Intel i9 Raptor Lake 24 cores, Asus ROG strix Z790 motherboard, Asus TUF Rtx 4090 and remaining all compatible products with SSD.",27
+train,apple,Digital,d743815d-b7be-43c5-99b6-a224bd2f6a1e,Show information on how to find lost AirPods.,3
+train,apple,Digital,fd2494f3-fe7d-4c58-81e4-742c72b4e1f2,Check the order status using an order number of24124124091. The email address is boobear@gmail.com,5
+train,target,General,80e12375-19ad-400f-9e35-2a3853173bed,Shop for the same-day delivery of thin crust frozen pepperoni pizza and add 2 packets to the cart.,18
+train,kbb,Auto,56cac423-4be9-4f74-9031-7cef1fe60ef9,Find the fuel economy for a 2005 Toyota Corolla,6
+train,carmax,Auto,e104a4ef-521f-4ca0-8e1a-098656207de2,"Find estimated monthly payments for a $10,000 vehicle with $500 down payment, 72 month term length and challenged credit score in the state of New Jersey",9
+train,menards,Speciality,4775a0e3-3dad-46f2-b719-b1c0dae9e147,Find tortillas bread in grocery stock near  zip 59901 and add 5 pieces of 12 pcs pack in the cart and view the cart.,16
+train,menards,Speciality,78e346d2-3c80-4243-b921-ed35c4c4d923,Track an order using the order number of 456481897 and phone number of 8984486417.,4
+train,cargurus,Auto,0dd6fbb7-4236-47f7-a69c-30f0836b76c3,"See the price trends of used Tesla cars from August 1, 2022, to January 31, 2023, and compare the trend with the Cargurus index.",17
+train,rei,Speciality,54e0d420-ec89-456a-b179-67c6b4b4babc,Order one TAHE inflatable stand up paddle board using my default account/shipping info.,10
+train,target,General,cc27fdda-c68f-4d43-bbcb-6c7954bf00ec,"Find Target Stores located near Cincinnati, Ohio and filter by those that have a Starbucks.",9
+train,uniqlo,Fashion,e8637690-bb8c-4596-a608-5b40a29d77c9,"Locate a large store in Washington that has kids' and maternity products, also check if they have a parking lot, and see the directions of the nearest store.",9
+train,rei,Speciality,8865ca64-0df2-4e3f-905d-a9e07e1eeb68,"Show bike service charges for store at Lafayette St, 10013.",6
+train,cvs,Speciality,53b4ca73-c05b-4609-98c8-a0a62072bdb5,Add cheapest vitamin C and D to cart.,14
+train,target,General,2c19d467-4e44-4c0d-b050-a13823ca545d,Find hard side Carry-on Luggage used for business in black color.,11
+train,target,General,2f660153-d470-4744-8b75-f8dc64c7f94e,Explore Games & Puzzles in the Toys category that are suitable for ages 14+,7
+train,target,General,33064851-00d9-46c8-b0b7-6b5048005c51,Find a registry in the name of Sheldon Cooper in Arizona and sort by latest to soonest.,10
+train,newegg,Digital,10593972-6b1d-4b07-ba61-cb56ca0f06e3,Find a Lenovo laptop under $800 and create a price alert for $400.,6
+train,newegg,Digital,1282a011-194c-40c4-8f76-875e502cdd53,Browse laptops with at least 16gb of ram and under $700.,8
+train,ebay,General,1ced6d51-577b-4e85-b96e-b823dbbcbf29,Find a newly listed pre-owned man Nike shoe in size 9 with free local pickup under 75 dollars.,13
+train,ebay,General,4a0bd619-4aa9-48d8-8322-89a86aef93db,Find a newly listed used antique Oak chair in the French style made before year 1800.,14
+train,ebay,General,4f069a59-c53b-4efe-bcfb-fc9fd864ea2e,Search for rare books and sort the results by auction end time.,6
+train,ebay,General,6da08512-9375-4b47-8cd1-addec58f385c,Find musical instruments and filter the results to show only those that are available for free local pickup.,5
+train,ebay,General,7bdebbfa-2512-48e2-93b1-d92e2c87c6e1,Find vintage clothing and sort the results by price from high to low.,5
+train,cargurus,Auto,69661946-6c3e-4e26-95ed-1f7641a31f22,Browse listings for a used Toyota Corolla near 10019 and sort by cheapest.,6
+train,cargurus,Auto,82c5913d-8392-44a2-8873-6627a281fa23,"Calculate monthly payment for car value of $50,000 and downpayment of $10,000 with interest rate of 4% for 60 months.",7
+train,carmax,Auto,8bfeeb54-beb9-4271-9436-fbd1a705efcd,Find the cheapest 2017 Honda Civic within 100 miles of 07470 which has a sun roof and black exterior color while excluding out of market vehicles,31
+train,cargurus,Auto,e91126e0-023d-4f96-9378-74efb5d6ecc3,Check reviews and research information about Audi A6 2020.,6
+train,cargurus,Auto,edb8e817-e9d7-45eb-9706-01967e3a0fe8,Get offer to sell car with AZ XA1234 number plate from Arizona state.,4
+train,cargurus,Auto,eeeee9d8-5387-46bc-a741-5bcb66b46f31,"Look for a job opening in sales in San Fransisco, and if found, apply for the job.",9
+train,cargurus,Auto,fcb50c4e-a89e-4f18-b7c0-423295e7c298,"Search for a certified pre-owned front-wheel drive Jeep, Compass model car with single owner and  the lowest mileage within 500 miles of zip 59316.",13
+train,rei,Speciality,d4298ee7-ac1d-4cac-bfa6-62bf7cd67004,Show camping hammocks with lowest price first.,5
+train,ebay,General,bc45669b-6bed-4240-9d9b-6b5e45a7e6f3,Browse xbox series x consoles that are used and between $200 and $400.,6
+train,ebay,General,cf8da12a-e1fd-48b5-8c53-b88f301ca1e0,Search for video game consoles and filter the results to show only those that have Wi-Fi Capability.,7
+train,ebay,General,df3b7cd4-526e-453b-9114-c0db1b3ed5ea,Search for Dining Room Sets under furniture and filter the results to show only items availble under the Buy It Now format.,5
+train,newegg,Digital,8eae88ef-9641-43c6-be6d-f8abc96d99fa,Find the most expensive Sony controller compatible with PS5 with free shipping and add it to my cart.,9
+train,ebay,General,8f567f79-e197-4d7e-9a49-877daae6dde5,Find a Blue iPhone 12 Pro 128gb and add to cart.,6
+train,ebay,General,980d35af-6c00-4d6c-94cd-0c41e0fabb76,Browse mens Timberland boots in size 9 and under $100 and filter by lowest price.,7
+train,kohls,Department,2d92911a-b208-4d68-ad00-46d2d67f9efa,"Locate a store in spring, Texas.",5
+train,rei,Speciality,2eaf60d5-d2af-4f50-a3ad-5cc9132a770a,Buy the cheapest used women's running shoes available in a size 5,14
+train,rei,Speciality,486bdb13-16c5-4a53-8566-a60caaf94a73,"Buy a GoBites Uno Spork in the color magenta and have it delivered to a store in Seattle, WA. Checkout with default address, and use credit number 123456789, CVV 123, expire 01, 2024",19
+train,newegg,Digital,13d78369-994a-4202-a9ed-8361e1fdea9d,Browse bluetooth headphones with active noise-cancellation.,6
+train,gamestop,Speciality,a513befc-46c3-4bb6-87c0-8f219107c756,Add a NBA basketball game for the PS5 to the shoping cart,4
+train,gamestop,Speciality,bd4b77db-00a5-405f-bf0a-a4d168967d64,find Panini Diamond Kings Baseball cards set below $25.,3
+train,gamestop,Speciality,c14078dd-a4be-4784-a46b-cb01333e3019,Add two $50 playstation store gift cards to cart,8
+train,gamestop,Speciality,d86d5cc1-50f7-4bfd-8e5b-60db84e87956,Check the trade-in value for Call of Duty: Black Ops III for Xbox One.,5
+train,gamestop,Speciality,f52ba76c-e5fc-48e5-85f3-41d4234a5c5f,Find used Xbox series X available.,8
+train,amazon,General,04b8b406-a031-48a3-a002-b1791d872e16,Add $100 Google Play Gift Card to cart and recipient email address as abc@abc.com,6
+train,cvs,Speciality,5b433cc4-26bf-4e62-b406-f00dc09c274d,Add a CVS brand covid home test kit to the cart.,4
+train,uniqlo,Fashion,9c9e89c1-fdb9-424c-b544-b9fd2f1ef46e,"Search for Limited Time Offers available in the Kids section and filter by size, 11-12Y(150).",5
+train,uniqlo,Fashion,ad381d87-53a0-4aa1-a1e5-d6d172a905cd,Show all the women cropped tops with lowest price first.,4
+train,uniqlo,Fashion,b30b9f84-0541-4826-a3af-98220b851f7c,"Search for women's sports wear, size S.",8
+train,uniqlo,Fashion,b5cb859d-8460-4b27-b6c9-d6fea6de9889,Find kids 13Y size t shirts and add 3 to cart.,9
+train,instacart,General,10b2af14-f708-4abe-94fc-00163d11cb56,Create a new list and add four items from the personal care category at Walgreens.,37
+train,kohls,Department,21f5aaaa-d54e-42a6-91c0-d1a427533963,Show me the new arrivals on Easter home decor,4
+train,kohls,Department,2b29b7d1-bd80-4d2c-a491-9dfc89827e84,Browse best selling black hoodies in mens size Big and Tall that is between $25 and $50.,8
+train,carmax,Auto,29fde741-075c-446c-8e8a-f432e81e7ac0,"Calculate vehicle price with a challenge credit score, monthly payment of $250 with a $3000 down payment and 24% APR for 48 months in Tennessee.",7
+train,carmax,Auto,5c91b907-39db-49c3-af73-5eb5c2390a93,Find a store in Modesto California and set is as my store.,6
+train,carmax,Auto,5d69e640-7765-4381-979c-9881afc048dd,"Calculate the monthly payment of a 15k car with a down payment of 5k in Michigan for a fair-rated person for a term length of 48 months, then shop with this budget for the cheapest car and add it to the favorites.",9
+train,cargurus,Auto,dd13bc51-f582-4004-8641-eb4e62cabfc7,Get prequalified with a good credit score for a $30000 car with a $6000 down payment for 48 months.,14
+train,cargurus,Auto,e832e1f9-3a9d-440e-a96f-8cbbf241e4af,"Sell my single-key black car, which has no defect with a leather interior through Louisiana, license plate number YAW639 in zip 70726 with mileage of 222900, get the offer at my email sellmycar@mail.com.",23
+train,newegg,Digital,f4623be1-31c6-4546-a567-92bfd1da9cd7,Upgrade the count of the current SSD in my cart to 10,3
+train,gamestop,Speciality,5418beec-bc06-4e11-9664-4038fbdeefe9,List Batman collectible figures priced under 10 dollars and a customer rating above 4 with a same-day delivery option.,10
+train,gamestop,Speciality,693ae151-6a70-41b1-b016-87279c4c532e,find the cheapest xbox 360 game available for purchase,4
+train,target,General,eb9995b5-261b-4659-bebc-951e0f855d75,Check the availability of a Nintendo Switch gaming console at the nearest Target store.,5
+train,tesla,Auto,0fb1c90e-a494-4de9-86ac-d4e5366869c4,Schedule a virtual consultation for Solar Roof. The name is James  Smith. The address is 123 st rd. The emial address is abc@abc.com,8
+train,tesla,Auto,3b7cead3-475d-41a4-a018-db89c7ace632,"What is the purchase price for powerwalls to install in a 200sqr feet 2 story house in the address 7528 East Mechanic Ave.Fargo, ND 58102",9
+train,tesla,Auto,4985e844-15bc-4fa4-9a76-f2c6fb1e6c16,Find me the cheapest red Model Y available to register in 94043,5
+train,newegg,Digital,b467797c-5fab-4ee6-9b1f-ac6dc50c05cf,Find the lowest-priced single pack of Xerox genuine magenta toner sold by Newegg with free shipping.,10
+train,uniqlo,Fashion,95619447-fe28-4cc0-9e0a-d888e5f73d7e,View the toddler collection and add one pair of the cheapest socks for a 6 months to 5 years to the wishlist.,13
+train,amazon,General,61563837-99af-45e2-a13f-9d6bd9f74a81,Show all the external solid state drives available with lowest price first.,7
+train,amazon,General,6fd2fbb1-9f43-4c46-be42-569a892648e6,Add a smartwatch to the cart that is compatible with an iPhone.,5
+train,cabelas,Speciality,afb693cd-57cb-4468-9f7f-d965ee530913,Find the discount black insulated hunting boots for Men with average ratings over 3.5 stars,8
+train,cabelas,Speciality,e9a5ab90-517c-4323-a343-6e10e6b9632f,"Find the gift registry of Carla Cahill, when asked for password use Michael Cahill as name and cahillm@gmail.com as email.",10
+train,cabelas,Speciality,ee9e993b-0254-465d-bb04-072e01e5f498,Browse the selection of fishing reels that are power assisted and are in stock.,4
+train,cabelas,Speciality,eebf3f55-1a4d-4cdf-81c1-2fa3002bed6d,"Find the cheapest Keen branded new pair of women's hiking shoes in the color brown, number 9, available in Columbus, Ohio store, average rating must be above 4.",12
+train,uniqlo,Fashion,42657330-bfc5-425d-ae21-396a9ba1fb12,Find yellow t-shirts for women small size that are less than $20.,10
+train,uniqlo,Fashion,7c28f4e3-3dcf-477b-98c3-087c4fc16655,Locate a store which is nearest to 10017 zip code.,4
+train,uniqlo,Fashion,7f94386a-d032-43cf-9dbe-2b64430c9c28,locate the store in IL,3
+train,uniqlo,Fashion,84d8a4df-0bba-45f9-b4c8-f5d455de451c,Add one baby one piece to cart.,4
+train,menards,Speciality,24de7f7d-f3f0-41a6-a578-e35b513b46e5,"Find Maytag electric dryers that are at least 7.3 cubic foot costing less than $1000 that are available in store at Montgomery, Illinois with zip code 60538.",16
+train,menards,Speciality,3d7f4f43-cff8-45fa-8249-97a8369c2d1f,"Send a 50-dollar home sweet home gift to my friend John with the message Congrats on your new home, and add this card to your cart and checkout.",11
+train,menards,Speciality,40bf7303-ba39-44fe-b73f-ad3c9743c579,Find a 19-inch stainless steel kitchen sink with two equal bowls that could be shipped to my home and compare the top two cheapest.,13
+train,ebay,General,37c09901-63d4-4194-8a96-1d87ca8c37ae,Browse washing machines available for free local  pickup within 25 miles of zip code 90026.,5
+train,cvs,Speciality,e92cd371-0bd2-4ac3-82e4-7fdaac46b626,Add zyrtec to the cart for pickup at the nearest CVS to zip code 90028,10
+train,cvs,Speciality,ff6ff6e5-e73c-4ba2-809e-59a1e269d68f,Find Hair Loss Evaluation and Treatment in 10018 and show directions.,9
+train,amazon,General,862faed7-449c-4624-902b-6b512a977d0c,"Find the cheapest new surge protector with 6 to 8 outlets under 25 dollars with customer reviews above 4+, add 2 pieces to the cart.",13
+train,amazon,General,884a375b-e3f4-4f34-8e99-290f49141f9a,Find a dog bed on Amazon that is machine-washable and has a diameter of at least 30 inches.,5
+train,amazon,General,d64cbfc6-7ace-4cad-9f0a-6643cd83de6e,"Find the cheapest full-sized Amazon basic comforter with 4+ average customer reviews and priced between 50 to 100 dollars, if red color availabe in the cheapest product then add one to the cart.",11
+train,kbb,Auto,efa705c1-f836-4704-b6c8-6e114a2eb865,"Get a service estimate on AC recharge of my 2022 Toyota Corrola, L Sedan 4D. My name is James Smith, email is buckeye.foobar@gmail.com, and phone number is 6157075521.",15
+train,kohls,Department,8e1a344d-a27b-4613-8863-7afad0829b23,Find a cheapest washable blue rug under 2'x3' size.,10
+train,kohls,Department,0c02c193-2aef-4817-92b4-56722edc6b57,I want to see the best seller gender neutral skirts,6
+train,gamestop,Speciality,f9062def-8361-48df-849c-4d7dbc1e11d1,find trade in value for PS4 console,9
+train,apple,Digital,3b6385ea-0cdc-4ed8-be93-dc90113d2255,Find Apple Stores close to zip code 90028,4
+train,apple,Digital,6c0a3b1e-6ce8-4955-9359-dd4378aacc82,Find the price of HomePod mini,3
+train,apple,Digital,a10e6232-923d-4635-bdc8-c6d989380e45,"Add a blue iPad to your cart and select the option for free engraving with ""hello world"" with no other accessaries.",15
+train,apple,Digital,ccee2694-0d3e-4d81-8d52-5cdf82a9b81f,Locate the nearest apple store to zip code 60540 and check its opening time tomorrow.,5
+train,instacart,General,bbfed209-df70-434a-aece-5c5fc7a38f4f,Find the push notification settings,3
+train,instacart,General,d0ac6860-23f7-40c1-b30d-12269470d2c3,check prices of organic strawberries with three different stores and add the one with lowest price to cart for 94105.,18
+train,kohls,Department,aab91310-0100-4a40-98e9-720c53199bff,Find mens hiking shoes under $100 in size 10 that has biggest discount.,11
+train,newegg,Digital,227054d0-24f1-4f8a-9dcb-5146fac623f4,"Find the cheapest Samsung-made and larger than 11-inch screen Android tablet, in the price range of 200 to 300 dollars and add it to the cart.",11
+train,ikea,Speciality,813e47ec-6304-42c5-82d4-1fc461247965,"Find the cheapest set of stainless steel spoons, which are available in stock in San Diego, California.",18
+train,cvs,Speciality,0fc202d2-4c12-48ca-b04b-b667aac49156,Browse benadryl items for Allergy Treatments in Liquid form.,6
+train,bookdepository,Speciality,690eedad-706c-4c48-a803-45b4f1c069bb,Browse bestsellers under $20 and available in hardback.,4
+train,bookdepository,Speciality,712d9d7f-d7ee-4554-affa-133449231ae4,Find the latest medical audiobook on complementary medicine for under 20 dollars and add the top book to the cart.,7
+train,bookdepository,Speciality,8e3c7ad0-f138-490e-918e-42bcce9f55a9,Add a harry potter book to my wishlist.,5
+train,bookdepository,Speciality,a2b159c8-86d0-4b76-9244-f19cc41d5ad8,Add a Medical book related to Diseases & Disorders to basket.,5
+train,kbb,Auto,4af615be-4472-4357-8737-5286b06b385d,Browse listings for a used 2006 Honda Civic.,6
+train,bookdepository,Speciality,31a74ae0-4b8a-407b-8f3d-a094a6966254,Show books of Dr Seuss with price range of $20 to $40 and add 2 to basket.,7
+train,bookdepository,Speciality,4f14fb44-31d8-49f3-b5fb-95826175bcb8,search new books from Jk Rowling available for kids within the age from 3 to 5 that are below $20,7
+train,instacart,General,844f8d77-e12e-4d68-8c4c-9146bd5b1530,Open gift list for beauty products.,4
+train,instacart,General,8f6374b0-36f1-478e-a282-a61849c8174f,"Add eleven produce items from Aldi, including 1 pack of blueberry, 6 bananas, 1 grape tomato, 1 roma tomato, 1 cilantro, to my cart and have it delivered tomorrow between 10am and 1pm to the default address.",19
+train,instacart,General,945ac29d-8e65-4e14-8bab-21742ac92a47,Find the cheapest  bananas at Kroger,5
+train,instacart,General,96fb7e5d-08b1-4def-a6f8-6ee81055d944,Search for Gingerbread cakes recipe and add ingredients to cart.,5
+train,ikea,Speciality,6b4aa5a9-79c5-49a3-9cc6-ead02159a3dd,Find a Queen size memory foam mattress with lowest price.,10
+train,ikea,Speciality,6ca55141-9ba6-4ed7-8c07-77df6c24029d,"Find the lowest-priced gray-colored round-shaped mirror in stock in Atlanta, Georgia, with a maximum price of 20 dollars.",17
+train,underarmour,Fashion,6e98e331-c80b-4316-b332-af76c4cb2440,"Search for women's golf polos in m size, priced between 50 to 75 dollars, and save the lowest priced among results.",11
+train,ikea,Speciality,479bdc82-ec52-447b-a577-fa2bcdc3886f,Show offers on home essentials under $20 and add the first 3 items to favorites.,5
+train,ikea,Speciality,577ac962-aefc-46c5-9050-a6069bf2a8fb,Find spare parts with part number 105307 and add 2 of them to cart.,9
+train,ikea,Speciality,60383804-a8e5-4e50-8715-da391d76617d,Browse candle holder red decor products.,5
+train,ikea,Speciality,618dbd1f-16e6-442e-ba3b-364c6dbda810,"Go to limited-time offers and choose the cheapest outdoor dining table, add to the cart, and checkout as a guest and select Ikea West Chester store for pick-up.",14
+train,newegg,Digital,effb9df8-3b3f-4349-8033-f79ba1587a4d,Find a projector which accepts crypto currency as payment.,3
+train,rei,Speciality,8aae9804-0765-4e14-ab71-4dc13ada32f7,Find camping tents that can fit 6 people and sort the results by price from low to high.,4
+train,rei,Speciality,932c0ec6-d500-495a-a7a7-0f632acbf6a5,Browse camping stoves that have an auto ignition feature.,3
+train,rei,Speciality,ad0369b6-cfd5-4555-bb4f-d84a942be555,Order the cheapest climbing shoes in today's deals.,8
+train,cvs,Speciality,0f9dd411-f3ab-494e-8a3a-5dc9a908f4ee,Locate the cvs pharmacy nearest to zip code 45201 that provides hair loss evaluation and treatment.,8
+train,newegg,Digital,e84111f2-5193-421e-877a-9af8418b558a,"Find a gaming desktop with an rtx4000 GPU, available in stock.",4
+train,amazon,General,581da9fe-4d75-42a7-b138-9b287a153575,"Find a pair of mens running shoes in black, size 7 extra wide, 4+ stars and under $50 and add them to my cart",6
+train,amazon,General,5f2c3149-1820-4632-bfdb-3cf4615de2cc,Browse dog food for puppies that is rated at least 4 stars and sort the results by price from low to high.,6
+train,menards,Speciality,9e44c63b-2c7a-445c-b9c4-6580f4271268,"Track the status of a rebate for Monty Lue, house number 4847, zip code 10019",7
+train,gamestop,Speciality,716ed90e-a138-452e-b5b5-167911871fda,find Playstation gift card of $10.,3
+train,gamestop,Speciality,7685e8ad-3989-4316-85dd-746fac2956be,"Look for a recently posted part-time Job in Gamestop stores in Fresno, California, and apply.",11
+train,amazon,General,dc636898-246e-4b08-9978-6a6dc1b20320,Show mattresses available with Amazon Basics and Follow the store.,4
+train,kbb,Auto,93d0190f-ff39-4b69-82fc-58cddac42006,Find the safety rating for 2012 Honda Civic,8
+train,kbb,Auto,988ff1b8-c9e8-44af-a729-33f0e99c9dbf,"Show cars with AWD with maximum budget of $50,000.",4
+train,kbb,Auto,9dfba9af-d79e-4a75-83b4-0f85ab04c2e6,Get a price quote for new Kia Carnival for 11101.,7
+train,cvs,Speciality,cd8f1f63-f6c3-4b1b-9ec9-3b13b9f0386c,Read the 1 star reviews of DayQuil Severe Cough Liquicaps.,5
+train,cvs,Speciality,d29e8a14-ee66-4330-b282-09cb1955aad0,Browse the weekly ad in List View.,3
+train,cvs,Speciality,e638beb6-059f-40ea-8653-929221e997db,Find a comprehensive health screening for women in 10003.,6
+train,newegg,Digital,92cfe78f-0385-4ef6-b829-ae34291e766f,Find an LED TV below $1000.,8
+train,newegg,Digital,74e653f0-aeea-4f01-8d80-c5846fae0c1c,"Show the Recommended Gaming PCs for someone who plays Fortnite, Overwatch and GTA V at 4k",7
+train,cabelas,Speciality,9f76268f-9a4e-4eab-ab2c-262d2fe7bdee,Browse crossbows on sale with limited stock.,5
+train,cabelas,Speciality,a4397261-95a5-4d57-a531-6082b2af8ac3,Find a black sleeping pad that is under $40.,5
+train,uniqlo,Fashion,f8089c50-e80c-4532-82a1-96009f485c57,"Find a Women's t-shirt for $40-$60 and add it to Wishlist, stop at the Login screen.",8
+train,gamestop,Speciality,8a6f2641-9896-4657-b447-56927420e8c4,"Find the cheapest educational trade-in Nintendo switch game rated for everyone, and print the details.",12
+train,kohls,Department,06309af8-9ca0-41c4-8acc-1e4e5db2f344,Show the most popular Women's Athletic Shoes.,6
+train,ikea,Speciality,1d0dcb84-da65-4830-ba60-cc2b09a52a13,Find plastic bathroom baskets that are gray from low to high prices near zip code 60173.,16
+train,ikea,Speciality,2d4b44c7-d11a-41c1-8be7-af4ae80b7a8c,Find a store near 11231 zip code.,4
+train,carmax,Auto,957878ba-cb47-40d1-bf37-23039b2dff27,"find a CarMax in Michigan, 49107 and book an appointment for a car repair on April 7th..",9
+train,carmax,Auto,9e3d2edb-6535-4180-9050-ade88dbf798e,"Find a Chevrolet with lowest mileage in zip 08817 with shipping charges of 99 dollars or less, with a price between 20k to 30k.",23
+train,kohls,Department,1a16a98f-4e8f-4ff9-9fa2-b97d2d403cc3,Add a set of sonoma bath towels to the cart and apply a coupon code for free shipping.,8
+test_task,kohls,Department,1d73ad40-f7f8-435e-a83d-8b38534427fd,Find the cheapest women's plus size brown color loungewear in 3xl size.,9
+test_task,carmax,Auto,923fd4e0-1862-45b0-9bba-d57b956844da,search gas pickup truck in Fremont with 2010 and 2017 with less than 80000 mile,19
+test_task,carmax,Auto,b59b1997-884f-42f0-b083-fc93d6ce64fe,"see Nissan and Honda cars for sale near Kentwood, MI 49512",9
+test_task,newegg,Digital,e483a49f-029d-446c-892c-c56b92fc463b,Build an entry-level pc with an windows 11 64 bit intel i7 CPU with a256gb ssd drive +  4gb ram and adding cheapest component and accessories available.,46
+test_task,newegg,Digital,14d50319-3f81-4aa6-8ee8-d1b66e4d5d64,"Find 32"" Curved monitor and add the third one to the wish list.",4
+test_task,underarmour,Fashion,f9a882f7-826e-469a-ad69-0d5f912734c9,"Search the cheapest Curry brand unisex athletic shoes with the number 5.5, add to cart and checkout.",15
+test_task,kohls,Department,a5dd5729-415a-4fe2-a840-4935bf9428d4,Browse spider-man toys for kids and sort by lowest price.,6
+test_task,gamestop,Speciality,a2500e0b-9244-4f0e-b686-fa290c32b829,Find the store location and hours of the closest Gamestop to zip code 90028 and set as home store,4
+test_task,underarmour,Fashion,18fc60d7-aa69-4c07-9bf1-64543eae52c9,Add a e-gift card to bag of $100 for recipient John and email address abc@test.com from buckeye.foobar@gmail.com with message gift card.,9
+test_task,uniqlo,Fashion,ef3a7151-b9cd-4ddb-aa76-e7e66815c23d,"Show me the list of Men's Blazers, Black, Size M.",8
+test_task,newegg,Digital,b674adf9-8950-4d27-b888-b789ccd49479,"Look for an intern career within Newegg in City of Industry, California, USA, and bookmark it.",9
+test_task,tesla,Auto,7ac28815-ae2a-4eef-afed-d75ec2d11b2b,Browse the used inventory of the Model Y with performance all-wheel drive.,3
+test_task,gamestop,Speciality,4dceb921-f7ff-4069-b860-47cf663072ee,"Show me reviews for Elden Ring, best to worst.",12
+test_task,underarmour,Fashion,774f0c2f-6caa-447f-a338-2df822882cbe,"Add five of red 50-dollar gift carts to the cart, during checkout, check if coupon 100OFF is working or not.",10
+test_task,bookdepository,Speciality,c1f584e2-e353-4298-b98b-fb21cbf2c16c,Find the latest Game of Thrones toys  for English speakers and add the top two  result to the cart and checkout.,11
+test_task,ikea,Speciality,b0bb4740-9b8d-4144-b443-c6e3d7db59f8,"Find a store in Tempe, Arizona,  make it my store, and then visit the store page and see whats happening in store.",5
+test_task,ikea,Speciality,ccb397da-ddee-4b7f-8d41-249b6f37e963,"Find a bedroom nightstand made from solid wood and compare the top three highest-rated products, and show only the differences.",16
+test_task,gamestop,Speciality,0d56ec88-1203-4c38-8d2c-90b3a3d12c25,Find me the cheapest external HD for an Xbox One.,8
+test_task,menards,Speciality,12cbd3a8-1087-413d-8114-3d754caaa362,Add the pre made College Supply List to my list.,4
+test_task,apple,Digital,01815816-53e8-43b4-8923-b0f4390a9a15,Find technical specs for the latest Macbook Air.,4
+test_task,target,General,1a13b675-36a8-4b42-b246-db49797e5d2b,Add a set of queen-sized bed sheets with at least a 4-star rating to the cart.,4
+test_task,target,General,1c2baca4-8c20-4e04-b6f6-90db4f565a72,Find the 24 count cheapest septic safe mega-size toiler paper in buy-and-save offers and add to the cart for pick-up.,24
+test_task,amazon,General,1140f858-b580-4c96-a06c-08fa9d020131,"Search for ""you are Amazing"" congrats gift card which can be printed and folded at home, priced between 50 and 100, and add two 50-dollar cards to the cart.",10
+test_task,cabelas,Speciality,181e41bd-db3d-4313-a5dc-e7c79c9f27eb,Enter the bargain cave to buy a 9 mm pistol from the clearance sale and that has an average rating of 4 and 5.,10
+test_task,bookdepository,Speciality,c472a4fe-33a0-4b6f-8d42-adcc067ba4ed,Browse books by author Stephen King in German.,4
+test_task,menards,Speciality,08840c76-eabb-4537-ab41-f62d1e7c94c3,Add a front load washing machine under $800 to the cart.,5
+test_task,carmax,Auto,ba5c335f-42ac-4955-92d2-96a636e4cbee,"Find Chevrolet Silverado with black exterior color and maximum value of $30,000.",9
+test_task,carmax,Auto,d496bbbe-44f9-48cc-a11b-9540196dcf60,Search for a full-time job in sales in Springfield and apply for the most recent job.,10
+test_task,rei,Speciality,826e2b3e-0711-4ee7-848d-52cbf88f0b58,Add a pair of large Yaktrax traction cleats to the cart.,6
+test_task,gamestop,Speciality,a34a5ed4-b475-45b6-a4f9-bfdc774d80e5,Find the closest in-store Gamestop location within 50 miles of 21122.,5
+test_task,newegg,Digital,03fd47fc-8412-487a-b895-26c80a95c398,"Make a build list with AI for a gaming pc with ryzen 9,rtx 6950xt and  price $2000-$2500.",4
+test_task,kohls,Department,d6a40526-d2ac-4367-b0c2-00ca99667e6a,Get the lowest priced women's plus size one piece swimsuit in color black with customer rating of atleat 5.,10
+test_task,apple,Digital,d5b1ca5f-a11f-4374-833f-d1a9ef711698,Add Pro Display XDR with nano texture to bag with all the accessories and check total.,8
+test_task,kbb,Auto,5535f398-45ef-42e6-9d72-179b0a3d0ad8,Browse used Audi cars made before 2015 and sort by lowest price,4
+test_task,kbb,Auto,68c320f1-cf4e-416d-b375-c6ffe37ed145,Browse used Mercedes cars made between 2004 to 2012 and sort by highest price,7
+test_task,carmax,Auto,f485ddf4-695b-428f-b455-dc13901b1e46,Find a 2022 Tesla Model 3.,7
+test_task,menards,Speciality,7b99ca15-508d-4a80-8138-bcb93b909f5f,Add a Swivel vacuum under $150 to my cart.,5
+test_task,rei,Speciality,5099fc8a-f0cd-488e-b7ab-5858a0c672e0,Sign up for a REI Co-Op membership.,2
+test_task,rei,Speciality,615b59c3-4bef-4d46-8df6-7224b22bd27c,Select a E-Gift card with Congrats design and add to cart with Best Wishes as a message. Send it to James Smith with email abc@abc.com,11
+test_task,target,General,cb24d074-173c-4893-bb00-1acbb27a81a6,Browse throw pillows and filter by black and decorative sets.,8
+test_task,target,General,e617d6c6-28ee-46cf-965e-ee1448910ce8,Search for job in Miami Florida in Human resources.,10
+test_task,cargurus,Auto,4056a671-65f7-4b8d-8cb9-46e789130a19,Search for the lowest millage used Honda Crosstour 2012 to 2013 near 49102 less than $25000.,9
+test_task,newegg,Digital,87ed4a0a-3a5f-454a-9721-55069db484e2,Find a new drone priced between 25 to 50 dollar and ships from USA with average customer rating of 4 and upwards and save the search at the end.,13
+test_task,kohls,Department,513f4cef-feaa-45be-818d-75c876830af0,Browse the clearance section and filter for women's dresses in size small.,8
+test_task,rei,Speciality,c59043d8-eef8-42f7-b883-6bdf51476883,"Book a place on the next available mountain biking class running within 100 miles of New York City for Joe Bloggs. The email address is joe@joebloggs.com and the phone number is 1111111111. Emergency contact's name is June and phone number is 2222222222. The gear sizing is 6 ft height
+.",27
+test_task,cvs,Speciality,7acc430a-9d18-4b33-82fc-449748f80660,Signup for virtual healthcare visit.,15
+test_task,instacart,General,00199892-39ab-41ad-a4fb-4c6bf8b94366,Find grocery deals at Costco,3
+test_task,carmax,Auto,610fe8c0-6598-4bd5-9864-8e41378db276,Find Toyota Corolla from the year 2018 to 2023 in red color.,9
+test_task,cabelas,Speciality,b3baca22-7184-4bd3-a9c7-647ff0153ae8,Find 5 star rated saltwater rods.,4
+test_task,kohls,Department,5eacf1eb-971f-4907-9e1c-cd8a6120b1e4,"Find direction to a store in Ohio, Cincinnati which does't have Sephora in it.",6
+test_task,kohls,Department,69ed8097-741e-4243-a26c-034a2ea4737b,Browse coffee makers that are rated 5 stars.,4
+test_task,apple,Digital,2fc80069-bdba-4064-82d0-1123a85f2651,Compare Apple watches and  learn more about the ultra version.,3
+test_task,apple,Digital,74992300-b61b-4679-b0ba-3b1ab7454358,Check the status of your iPhone repair.,3
+test_task,uniqlo,Fashion,323f1c41-b4c7-41b6-821e-2fed2fe09922,"Find black shorts in XXL or 3XL sizes for sale under men department, add the top product to the cart.",15
+test_task,target,General,9a6622b0-e58e-40e2-ace6-5e3344afac44,Get the frozen vegan cheese pizza between 5 to 10 usd.,18
+test_task,kbb,Auto,6b215dbb-a2c4-451c-9c34-9bafe6660c14,"Find a manufacturer-certified Chevrolet truck for sale within 10 miles of zip 42701, if found schedule a test drive for James Smith on April 17 at 4 pm.",18
+test_task,newegg,Digital,f1986a5b-c074-40fe-9c89-d083389f0cc4,Find bluetooth vertical mouse with most reviews and add two to my shopping cart..,7
+test_task,menards,Speciality,a4a06039-add9-4726-8bfc-a4831b467576,Find the weekly ad for the store closest to zip code 82718,6
+test_task,menards,Speciality,a690af04-9013-4ca0-b8fb-47bc4dd722ac,Create a new list called Bathroom Remodeling,6
+test_task,gamestop,Speciality,757a129b-68b2-4799-80f1-db1add10f92c,Find Playstation 5 digital edition,3
+test_task,amazon,General,e3143d13-bc33-4b5a-9fd0-6a493cf5997b,"Add a set of wireless headphones to your cart with a budget of $100 or less, that has an active noise-cancelling feature.",7
+test_task,cabelas,Speciality,66d49483-19c8-4d13-af4c-a6639e8b3b81,Look for the lowest priced new aluminum fish boat within 100 miles of Iowa state zip 52554 and call for price.,11
+test_task,cabelas,Speciality,9334211a-8ae8-43fc-9581-a0427950e82f,show the Life Vests priced between $100 and $200.,4
+test_task,underarmour,Fashion,afcc3ff5-c043-4787-8608-cb21dab9dc42,Locate a store in New York 10007 and view store timings.,4
+test_task,uniqlo,Fashion,29c19896-2459-46b3-a488-77e5368c9651,Find the page with instructions on how to return orders online.,2
+test_task,kohls,Department,c37a7e97-8378-4382-b630-21d353888307,Browse men's winter coats in size large that is on clearance.,6
+test_task,kohls,Department,150146b2-ae80-4760-b2a9-1c7475ce5de2,Show me products from Calvin Klein brand menswear list.,4
+test_task,newegg,Digital,75294fc6-f203-4fd3-bc1a-44bd83d1c69d,Add the cheapest SSD to my cart,4
+test_website,shopping.google,General,7349981f-e54b-4a03-95de-f06ef4eaeede,"Find best reviewed 27""-32"" Samsung or LG computer monitors nearby which have 4k, IPS display",10
+test_website,cars,Auto,a64e6a9d-4106-47ab-94fe-9dffda21aa6a,Find the seller info and seller's notes about used car model 2013  BMW 135 with a max price of $4000,11
+test_website,cars,Auto,ac41d591-5fd7-4ae6-b0c6-9e80f8c48ae3,"Calculate the estimated car loan payment amount for an average credit-rated person for a 15,000-dollar car with a down payment of 2000 dollars and loan tenure of 48 months in zip 65215 and shop for the lowest priced car.",9
+test_website,macys,Department,b83d8b14-a069-4aab-8a82-89250cafa347,Add to my bag one men's slim jeans of size 26*29,6
+test_website,macys,Department,0c470ef9-3409-48ec-8bb7-68ba580cfc9b,Search for boys infant pajamas below $40.,10
+test_website,macys,Department,2f096936-2d36-40bc-8fbd-8f91785410ea,"Filter handbags to evening bag that is blue, embellished and costs less than $50.",9
+test_website,macys,Department,b8428fcc-2729-4e71-8932-c2e3cffe30ba,Find a top-rated best-seller unisex building toy for a 5 to 7-year-old.,12
+test_website,shopping.google,General,f8df8406-073e-4d70-bdee-beef9b9f4f88,"Find size 8, black running shoes for men by Nike which are rated four stars and above and are currently on sale",8
+test_website,shopping.google,General,5b0eace3-c385-4f9e-8ce8-cdd9e58f1ea7,Compare prices and find cheapest total price for Granitestone Sandwich Maker from stores which offer free delivery,5
+test_website,shopping.google,General,705c914c-d8f6-4c4b-8aef-94ef40e99e18,List one star reviews for best reviewed iPhone 14,8
+test_website,macys,Department,c3a97f15-ad69-4627-821d-dcc0b698526c,Find a black and a brown top for work in the trending section and add two tops  in the shopping bag.,17
+test_website,macys,Department,baf8a9d8-1788-4599-a9a9-dd22b619dcbf,Creat a searchable list named New Home and add a cheaest recliner chair to that list.,11
+test_website,bestbuy,Digital,39d1c8cf-6179-47b4-9fd2-2ad83ec486c2,"As a Verizon user, finance a new blue iPhone 13 with 256gb along with monthly apple care",16
+test_website,bestbuy,Digital,3ff2ddd8-60a4-44a7-b710-9a8a515a9869,View the speakers that are bluetooth and wireless and filter the results to only show models that are on sale and cost less than $50.,6
+test_website,cars,Auto,d1fdd62a-e113-4e2a-8593-2bf56f863a6b,Compare Audi A7 with Audi A6 both made in 2023 and hide similarities.,9
+test_website,cars,Auto,021e02c5-95fb-4dc3-987c-a74b1b64e299,Find me the cheapest Dodge Ram 1500 within 50 miles of 21122,7
+test_website,cars,Auto,094a877b-27a6-408f-9dad-7e9d8ed07278,Find used audi 100 sorted by best deal.,5
+test_website,bestbuy,Digital,6807ef3b-90d9-4592-b97f-8db60398985a,"Discover the trade-in value of my intel 7th generation i3 windows 10, hp laptop in fair condition,  which has 8 GB memory and can be powered on, proceed for the in-store trade-in.",13
+test_website,bestbuy,Digital,6b67e246-a93e-4b0c-8959-81bd58ce4d64,search for new internal M2 Samsung ssd drive within $25 and $200.,8
+test_website,bestbuy,Digital,7e6deaae-3391-4a43-b8d7-053dc9ba17ca,"Schedule a repair service for my gaming console closest to the zip code 10001 on March 24, anytime after 6 pm.",12
+test_website,bestbuy,Digital,84c1847c-a0f3-4062-b778-625578a0fba7,check trade in value for a gray galaxy s20 5G (Verizon) in good condition for an open box Samsung galaxy s21 plus.,17
+test_website,shopping.google,General,d10c0099-16f1-4bee-bab4-a2a143ea0fd3,"Create a product collection called ""Future Birthday Gifts""",5
+test_website,shopping.google,General,d57b93a0-c0bc-47e7-9c45-4ff93958fd68,Find electric coffee grinders and filter the results to show only those with a capacity of 4 - 6.4 oz,4
+test_website,shopping.google,General,ebfe31b3-54d8-44ee-b22e-f6554bd74222,Identify Nike Air Women's size 6 cross training shoes that offer free return.,6
+test_website,macys,Department,316850c0-14f9-41a4-9806-9801151952e0,checkprice of silver engagement rings with 1-2 cttw  available for purchase,7
+test_website,macys,Department,4e1e4c8a-fc1f-43e2-ac6a-a63e6b121c40,Show me the list of kitchen products made of aluminum on sale.,4
+test_website,bestbuy,Digital,47efde90-81c4-4845-ab07-1eb8e7a9d11a,Add a $50 Uber gift card to the cart,4
+test_website,macys,Department,6accc593-0fed-47f4-a021-42eed5f94ee7,"Purchase a Macy's E-Gift Card worth $50 with birthday wish message ""Happy birthday, wish you many more years to come"" to christene (christenson@gmail.com) from Shak",11
+test_website,macys,Department,924476f8-37f9-42e2-bedf-64eeac0ce8b6,Shop for 2020 made dry red wine made in Italy priced between 15-20 dollars and add 5 bottles to the cart.,13
+test_website,shopping.google,General,85d6d6f1-6a30-4c61-9d8c-59c25f4043f4,Look for a White PlayStation 5 Console and save it,2
+test_website,shopping.google,General,8a1cda91-fc7a-419e-bbc1-9c7363ea15c7,Find wireless earbuds by Samsung and sort the results by Review Score.,6
+test_website,shopping.google,General,8f309c5d-58b3-4830-ab4c-44805db26c4a,"Find pet food for cats and sort the results by price, least to most expensive and from Chewy.com",6
+test_website,shopping.google,General,99205f1e-ec10-4780-9931-8a90fedad4a9,Compare prices for a Samsung Galaxy S22,4
+test_website,macys,Department,5a08f2d9-799b-4eff-83ce-b27548fd526a,"Add a men's T-Shirt that is in large size with a stripe pattern, short sleeve and under the Best Sellers group to the cart.",7
+test_website,macys,Department,5cd6189f-084e-4ff2-9753-2110778e2a54,look at top rated size 5 women Leather Sandals from MICHAEL Michael Kors within $50 to $100.,14
+test_website,shopping.google,General,275a7416-179a-4a72-8e2b-779a48a2b33f,Find the cheapest snow colored Google Pixel 7 with 128gb storage that can be bought on google,7
+test_website,shopping.google,General,2de30aa3-b7a9-43eb-84f1-df10851a7da3,Look for reviews of a Nest Hello Video Doorbell and filter by 1 star ratings,5
+test_website,shopping.google,General,470ee759-6323-4803-9c60-018c49c13c4e,Create a list of drip coffee makers that are on sale and within $25-60 and have a black finish.,7
+test_website,bestbuy,Digital,a59beab6-bc7a-4a2c-811f-c11b49f9fd9e,"find a silver steel watch with touch screen, water resistance, touch screen and google assistance support for currently on sale",7
+test_website,bestbuy,Digital,c2739db1-7c1a-42dd-a977-c73a8c94e792,Search for NordicTrarck with the lowest price,6
+test_website,bestbuy,Digital,cd5753f3-4487-40e5-aa8b-50ac687a4631,search for 33 to 49inch Qled gaming monitor with 240hz refresh rate that is within $1000 to $2000,11
+test_website,macys,Department,0f2d0bb0-ae6b-4fda-ad3e-26f75b4352cc,Find baby shoes under 20 dollars and rated 5 stars.,6
+test_website,macys,Department,24e104ae-aa71-40b2-8048-b69027f9652b,Check the details of order 12345 with email 12345@gmail.com,4
+test_website,cars,Auto,0bea65aa-45a4-472c-9a4a-e900e8a9b43d,Find a highest rated dealer for Cadillac with rating above 4 star within 20 miles of zip 60606.,6
+test_website,cars,Auto,1039245f-0ca1-464b-b55a-2ac30f769929,"Find electric cars with a maximum price of $50,000 within 50 miles of 10001.",6
+test_website,cars,Auto,135d86d4-f44d-4164-8b42-a128727f6e7e,"Find a used cheapest 8 cylinder bmw  made between 2005-2015 and priced from 25,000 to  50,000 dollar with mileage less then 50,000 miles or less.",11
+test_website,bestbuy,Digital,d7f01fd5-afd7-407d-8d62-e0b201b8c197,Browse 8K Samsung TVs that are open box.,4
+test_website,bestbuy,Digital,f36b49c8-7e36-4d48-b736-518d5a617a8f,Buy the highest-rated physical birthday gift card of 50 dollars and add 2 gift cards to the cart.,7
+test_website,bestbuy,Digital,f5b9e5b9-1992-4444-b389-680912e50fe6,apply for a retail sales associate jobs within 5 miles to 20001,8
+test_website,bestbuy,Digital,ff8cc274-30e0-40b2-86af-29360d548351,Find and save a low-cost 30-inch digital display induction cooktop with auto shut off and hot surface indication.,11
+test_website,cars,Auto,b904b13e-6c35-4506-a4be-2586f7d9930b,Find a cheapest hatchback car listing in Madison which has red interiors with heated seat option and premium sound system.,12
+test_website,macys,Department,f75f526f-dff7-4164-bb90-e9a84327bb2e,find marriage registry with name JANE DOE,3
+test_website,shopping.google,General,51c2f319-65b5-4115-948c-453ac3e28382,Look for price comparisons of Pokemon Go - Elite Trainer Box,4
+test_website,shopping.google,General,09ef065e-4b1a-431e-84f2-bd7768c0d004,Search for running shoes for men and filter the results to show only those that are available in size 11.,4
+test_website,shopping.google,General,1f91de2a-5508-43e5-bced-ef6812f84614,Search for smart TVs with a screen size of 55 to 65 inches and filter the results to show only those that have a LED display.,5
+test_website,macys,Department,b4fc8b29-b526-4f92-9568-55bdd272f789,Find the cheapest anklets in a clearance sale for under 10 dollars and move this to the shopping bag.,12
+test_website,bestbuy,Digital,8e1f66f2-7840-4cb2-ba22-102f6bfde245,Find a store near zip 30010 that provides authorized apple services for imacs and  make this one  my store.,10
+test_website,bestbuy,Digital,9aec1bbb-e7ac-45e4-bcbd-ec2cee25af1a,Check the speccification of the best selling HP FHD laptop with 12gb ram and core i7 running on windows 11,12
+test_website,bestbuy,Digital,a3af3bcb-e0a3-4b83-82c6-50ef71a37411,buy a $100 best bu gift card for a birthday,6
+test_website,cars,Auto,4f703fa8-7af1-463b-a21b-a7a106cef80e,Find service and repair for a 2022 Audi e-tron.,5
+test_website,cars,Auto,8404eae6-c5b7-45cf-ae00-57d241225f78,Find recalls for the Alfa romeo 4C,4
+test_website,cars,Auto,8bc9b2da-7c0e-4a61-b2ae-d0898fe9717a,Compare the Acura CL 2003 with the ILX 2022.,9
+test_website,cars,Auto,a267dfd8-281d-4bcf-bdee-c44499526394,Find the Recall information provided by National Highway Traffic Safety Administration for Chevrolet model bolt EUV for the year 2022,6

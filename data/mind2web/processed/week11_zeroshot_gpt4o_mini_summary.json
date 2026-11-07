@@ -1,0 +1,8 @@
+{
+  "label": "zeroshot_gpt4o_mini",
+  "n_steps": 1036,
+  "n_tasks": 131,
+  "latency_mean_s": 0.6857779079932469,
+  "latency_median_s": 0.6553539009992164,
+  "latency_p95_s": 0.931757109749924
+}

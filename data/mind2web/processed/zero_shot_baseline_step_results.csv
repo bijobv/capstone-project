@@ -1,0 +1,1037 @@
+task_idx,step_idx,website,gt_op,pred_op,element_correct,operation_correct,value_correct,step_success,raw_response
+0,0,rei,TYPE,TYPE,True,True,False,False,I | TYPE | large Yaktrax traction cleats
+0,1,rei,CLICK,CLICK,False,True,True,False,F | CLICK | 
+0,2,rei,CLICK,CLICK,False,True,True,False,J | CLICK | 
+0,3,rei,CLICK,CLICK,False,True,True,False,B | CLICK | 
+0,4,rei,CLICK,CLICK,True,True,True,True,I | CLICK | 
+0,5,rei,CLICK,CLICK,True,True,True,True,A | CLICK | 
+1,0,kohls,TYPE,TYPE,True,True,False,False,C | TYPE | spider-man toys for kids
+1,1,kohls,CLICK,CLICK,True,True,True,True,J | CLICK | 
+1,2,kohls,CLICK,CLICK,False,True,True,False,A | CLICK | 
+1,3,kohls,CLICK,CLICK,True,True,True,True,F | CLICK | 
+1,4,kohls,CLICK,CLICK,False,True,True,False,G | CLICK | 
+1,5,kohls,CLICK,CLICK,True,True,True,True,I | CLICK | 
+2,0,cars,CLICK,CLICK,False,True,True,False,A | CLICK | 
+2,1,cars,TYPE,TYPE,True,True,False,False,B | TYPE | 13000
+2,2,cars,SELECT,SELECT,True,True,True,True,F | SELECT | Average Credit
+2,3,cars,TYPE,TYPE,True,True,True,True,H | TYPE | 2000
+2,4,cars,CLICK,CLICK,True,True,True,True,E | CLICK | 
+2,5,cars,TYPE,CLICK,False,False,False,False,B | CLICK | 
+2,6,cars,CLICK,CLICK,False,True,True,False,F | CLICK | 
+2,7,cars,CLICK,CLICK,True,True,True,True,F | CLICK | 
+2,8,cars,SELECT,CLICK,False,False,True,False,D | CLICK | 
+3,0,cabelas,CLICK,CLICK,False,True,True,False,G | CLICK | 
+3,1,cabelas,CLICK,CLICK,True,True,True,True,A | CLICK | 
+3,2,cabelas,CLICK,CLICK,False,True,True,False,B | CLICK | 
+3,3,cabelas,CLICK,CLICK,True,True,True,True,B | CLICK | 
+4,0,cars,CLICK,CLICK,False,True,True,False,A | CLICK | 
+4,1,cars,SELECT,CLICK,False,False,True,False,A | CLICK | 
+4,2,cars,SELECT,SELECT,True,True,True,True,C | SELECT | Bolt EUV
+4,3,cars,SELECT,SELECT,True,True,True,True,I | SELECT | 2022
+4,4,cars,CLICK,CLICK,False,True,True,False,B | CLICK | 
+5,0,gamestop,TYPE,TYPE,True,True,False,False,J | TYPE | external HD for Xbox One
+5,1,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+5,2,gamestop,CLICK,CLICK,False,True,True,False,C | CLICK | 
+5,3,gamestop,CLICK,CLICK,False,True,True,False,H | CLICK | 
+5,4,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+5,5,gamestop,CLICK,CLICK,False,True,True,False,F | CLICK | 
+5,6,gamestop,CLICK,CLICK,True,True,True,True,A | CLICK | 
+5,7,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+6,0,bestbuy,CLICK,CLICK,False,True,True,False,J | CLICK | 
+6,1,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+6,2,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+6,3,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+7,0,underarmour,CLICK,CLICK,False,True,True,False,I | CLICK | 
+7,1,underarmour,CLICK,TYPE,False,False,True,False,F | TYPE | 5
+7,2,underarmour,CLICK,TYPE,False,False,True,False,A | TYPE | 50-dollar gift card
+7,3,underarmour,CLICK,CLICK,True,True,True,True,E | CLICK | 
+7,4,underarmour,CLICK,CLICK,True,True,True,True,E | CLICK | 
+7,5,underarmour,SELECT,SELECT,True,True,True,True,G | SELECT | 5
+7,6,underarmour,CLICK,CLICK,True,True,True,True,G | CLICK | 
+7,7,underarmour,CLICK,CLICK,True,True,True,True,A | CLICK | 
+7,8,underarmour,TYPE,TYPE,True,True,True,True,C | TYPE | 100OFF
+7,9,underarmour,CLICK,CLICK,True,True,True,True,A | CLICK | 
+8,0,bestbuy,TYPE,TYPE,True,True,False,False,C | TYPE | M2 Samsung SSD drive
+8,1,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+8,2,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+8,3,bestbuy,CLICK,CLICK,False,True,True,False,H | CLICK | 
+8,4,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+8,5,bestbuy,TYPE,TYPE,True,True,True,True,B | TYPE | 25
+8,6,bestbuy,TYPE,TYPE,True,True,True,True,I | TYPE | 200
+9,0,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+9,1,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+9,2,bestbuy,TYPE,TYPE,True,True,True,True,A | TYPE | 30010
+9,3,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+9,5,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+9,6,bestbuy,CLICK,CLICK,False,True,True,False,H | CLICK | 
+9,7,bestbuy,CLICK,CLICK,True,True,True,True,I | CLICK | 
+9,8,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+9,9,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+10,0,bestbuy,TYPE,TYPE,True,True,False,False,I | TYPE | 8K Samsung TVs open box
+10,1,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+10,2,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+10,3,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+11,0,cars,CLICK,CLICK,True,True,True,True,A | CLICK | 
+11,1,cars,SELECT,SELECT,False,True,True,False,E | SELECT | BMW 135
+11,2,cars,SELECT,TYPE,True,False,True,False,E | TYPE | 4000
+11,3,cars,SELECT,SELECT,True,True,True,True,H | SELECT | 2013 BMW 135
+11,4,cars,SELECT,CLICK,False,False,True,False,J | CLICK | 
+11,5,cars,SELECT,CLICK,False,False,True,False,G | CLICK | 
+11,6,cars,CLICK,SELECT,False,False,True,False,I | SELECT | 135
+11,9,cars,CLICK,CLICK,True,True,True,True,G | CLICK | 
+12,0,tesla,CLICK,CLICK,False,True,True,False,B | CLICK | 
+12,1,tesla,CLICK,CLICK,True,True,True,True,A | CLICK | 
+12,2,tesla,CLICK,CLICK,True,True,True,True,B | CLICK | 
+13,0,shopping.google,TYPE,TYPE,True,True,False,False,B | TYPE | Nike black running shoes size 8 on sale
+13,1,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+13,2,shopping.google,CLICK,CLICK,False,True,True,False,F | CLICK | 
+13,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+13,4,shopping.google,CLICK,CLICK,False,True,True,False,G | CLICK | 
+13,5,shopping.google,CLICK,CLICK,False,True,True,False,I | CLICK | 
+13,6,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+13,7,shopping.google,CLICK,CLICK,False,True,True,False,I | CLICK | 
+14,0,target,CLICK,CLICK,False,True,True,False,E | CLICK | 
+14,1,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+14,2,target,CLICK,CLICK,False,True,True,False,D | CLICK | 
+14,3,target,CLICK,CLICK,False,True,True,False,H | CLICK | 
+14,4,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+14,5,target,CLICK,CLICK,True,True,True,True,H | CLICK | 
+14,6,target,CLICK,CLICK,False,True,True,False,G | CLICK | 
+14,8,target,CLICK,CLICK,False,True,True,False,A | CLICK | 
+14,9,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+14,11,target,CLICK,CLICK,True,True,True,True,C | CLICK | 
+14,12,target,CLICK,CLICK,True,True,True,True,G | CLICK | 
+14,14,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+14,15,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+14,17,target,CLICK,CLICK,True,True,True,True,B | CLICK | 
+15,0,newegg,TYPE,TYPE,True,True,True,True,"D | TYPE | 32"" Curved monitor"
+15,1,newegg,CLICK,CLICK,False,True,True,False,F | CLICK | 
+15,2,newegg,CLICK,CLICK,True,True,True,True,A | CLICK | 
+15,3,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+16,0,newegg,CLICK,CLICK,True,True,True,True,H | CLICK | 
+16,1,newegg,CLICK,CLICK,True,True,True,True,J | CLICK | 
+16,2,newegg,CLICK,CLICK,False,True,True,False,A | CLICK | 
+16,3,newegg,CLICK,CLICK,True,True,True,True,B | CLICK | 
+16,4,newegg,SELECT,CLICK,True,False,True,False,E | CLICK | 
+16,5,newegg,CLICK,CLICK,False,True,True,False,E | CLICK | 
+16,7,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+16,9,newegg,SELECT,CLICK,False,False,True,False,B | CLICK | 
+16,10,newegg,CLICK,CLICK,True,True,True,True,E | CLICK | 
+16,12,newegg,SELECT,CLICK,False,False,True,False,A | CLICK | 
+16,13,newegg,CLICK,CLICK,True,True,True,True,A | CLICK | 
+16,15,newegg,SELECT,CLICK,False,False,True,False,A | CLICK | 
+16,16,newegg,CLICK,CLICK,True,True,True,True,A | CLICK | 
+16,18,newegg,SELECT,CLICK,False,False,True,False,A | CLICK | 
+16,19,newegg,CLICK,CLICK,False,True,True,False,D | CLICK | 
+16,21,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+16,22,newegg,SELECT,CLICK,True,False,True,False,E | CLICK | 
+16,23,newegg,CLICK,CLICK,True,True,True,True,D | CLICK | 
+16,25,newegg,SELECT,CLICK,False,False,True,False,A | CLICK | 
+16,26,newegg,CLICK,CLICK,True,True,True,True,G | CLICK | 
+16,28,newegg,SELECT,CLICK,True,False,True,False,E | CLICK | 
+16,29,newegg,CLICK,CLICK,True,True,True,True,J | CLICK | 
+16,30,newegg,CLICK,TYPE,False,False,True,False,C | TYPE | 1
+16,31,newegg,CLICK,CLICK,False,True,True,False,A | CLICK | 
+16,32,newegg,SELECT,CLICK,False,False,True,False,C | CLICK | 
+16,33,newegg,CLICK,CLICK,True,True,True,True,A | CLICK | 
+16,34,newegg,CLICK,CLICK,False,True,True,False,G | CLICK | 
+16,35,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+16,36,newegg,SELECT,CLICK,False,False,True,False,A | CLICK | 
+16,37,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+16,38,newegg,CLICK,CLICK,False,True,True,False,E | CLICK | 
+16,39,newegg,CLICK,CLICK,False,True,True,False,C | CLICK | 
+16,40,newegg,SELECT,CLICK,True,False,True,False,A | CLICK | 
+16,41,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+16,42,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+16,43,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+16,44,newegg,SELECT,CLICK,False,False,True,False,D | CLICK | 
+16,45,newegg,CLICK,CLICK,True,True,True,True,I | CLICK | 
+17,0,cars,CLICK,CLICK,False,True,True,False,D | CLICK | 
+17,1,cars,CLICK,CLICK,False,True,True,False,C | CLICK | 
+17,2,cars,CLICK,CLICK,False,True,True,False,D | CLICK | 
+17,3,cars,CLICK,CLICK,False,True,True,False,C | CLICK | 
+17,4,cars,CLICK,CLICK,False,True,True,False,I | CLICK | 
+17,5,cars,CLICK,CLICK,True,True,True,True,G | CLICK | 
+17,6,cars,CLICK,CLICK,False,True,True,False,H | CLICK | 
+17,7,cars,CLICK,CLICK,False,True,True,False,J | CLICK | 
+17,8,cars,CLICK,CLICK,False,True,True,False,G | CLICK | 
+17,9,cars,CLICK,CLICK,False,True,True,False,H | CLICK | 
+17,10,cars,CLICK,CLICK,False,True,True,False,D | CLICK | 
+17,11,cars,SELECT,CLICK,True,False,True,False,I | CLICK | 
+18,0,carmax,CLICK,CLICK,False,True,True,False,B | CLICK | 
+18,1,carmax,CLICK,CLICK,True,True,True,True,J | CLICK | 
+18,2,carmax,CLICK,SELECT,False,False,True,False,C | SELECT |  Most Recent
+18,3,carmax,CLICK,CLICK,False,True,True,False,C | CLICK | 
+18,4,carmax,CLICK,CLICK,True,True,True,True,B | CLICK | 
+18,5,carmax,CLICK,CLICK,False,True,True,False,E | CLICK | 
+18,6,carmax,CLICK,CLICK,False,True,True,False,F | CLICK | 
+18,7,carmax,CLICK,CLICK,False,True,True,False,C | CLICK | 
+18,8,carmax,SELECT,SELECT,True,True,True,True,E | SELECT |  Most Recent
+18,9,carmax,CLICK,CLICK,True,True,True,True,F | CLICK | 
+19,0,gamestop,CLICK,TYPE,False,False,True,False,A | TYPE | Gamestop near 21122
+19,1,gamestop,CLICK,CLICK,True,True,True,True,H | CLICK | 
+19,2,gamestop,TYPE,TYPE,True,True,True,True,G | TYPE | 21122
+19,3,gamestop,SELECT,SELECT,True,True,True,True,E | SELECT | 50 miles
+19,4,gamestop,CLICK,CLICK,True,True,True,True,F | CLICK | 
+20,0,uniqlo,CLICK,CLICK,True,True,True,True,F | CLICK | 
+20,1,uniqlo,CLICK,CLICK,False,True,True,False,E | CLICK | 
+21,0,shopping.google,TYPE,TYPE,True,True,False,False,F | TYPE | iPhone 14 reviews
+21,1,shopping.google,CLICK,CLICK,False,True,True,False,H | CLICK | 
+21,2,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+21,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+21,4,shopping.google,CLICK,CLICK,True,True,True,True,D | CLICK | 
+21,5,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+21,6,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+21,7,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+22,0,shopping.google,TYPE,TYPE,True,True,False,False,I | TYPE | Pokemon Go - Elite Trainer Box
+22,1,shopping.google,CLICK,CLICK,False,True,True,False,H | CLICK | 
+22,3,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+23,0,macys,CLICK,CLICK,False,True,True,False,I | CLICK | 
+23,1,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+23,2,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+23,3,macys,CLICK,CLICK,True,True,True,True,H | CLICK | 
+23,4,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+23,5,macys,CLICK,CLICK,True,True,True,True,G | CLICK | 
+24,0,menards,TYPE,TYPE,True,True,False,False,D | TYPE | front load washing machine under $800
+24,1,menards,CLICK,CLICK,True,True,True,True,J | CLICK | 
+24,2,menards,TYPE,TYPE,True,True,True,True,D | TYPE | 800
+24,3,menards,CLICK,CLICK,True,True,True,True,G | CLICK | 
+24,4,menards,CLICK,CLICK,True,True,True,True,C | CLICK | 
+25,0,shopping.google,TYPE,TYPE,True,True,False,False,B | TYPE | Nike Air Women's size 6 cross training shoes
+25,1,shopping.google,CLICK,CLICK,True,True,True,True,E | CLICK | 
+25,2,shopping.google,CLICK,CLICK,False,True,True,False,G | CLICK | 
+25,3,shopping.google,CLICK,CLICK,False,True,True,False,G | CLICK | 
+25,4,shopping.google,CLICK,CLICK,False,True,True,False,I | CLICK | 
+25,5,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+26,0,cars,SELECT,SELECT,True,True,True,True,A | SELECT | Dodge Ram 1500
+26,1,cars,SELECT,SELECT,True,True,True,True,J | SELECT | 1500
+26,2,cars,SELECT,SELECT,True,True,True,True,H | SELECT | 50 miles
+26,3,cars,CLICK,TYPE,True,False,True,False,C | TYPE | 21122
+26,4,cars,TYPE,TYPE,True,True,True,True,J | TYPE | 21122
+26,5,cars,CLICK,CLICK,True,True,True,True,I | CLICK | 
+26,6,cars,SELECT,CLICK,False,False,True,False,D | CLICK | 
+27,0,shopping.google,CLICK,CLICK,True,True,True,True,G | CLICK | 
+27,1,shopping.google,CLICK,CLICK,True,True,True,True,C | CLICK | 
+27,3,shopping.google,TYPE,TYPE,True,True,True,True,B | TYPE | Future Birthday Gifts
+27,4,shopping.google,CLICK,CLICK,True,True,True,True,I | CLICK | 
+28,0,macys,CLICK,CLICK,True,True,True,True,F | CLICK | 
+28,1,macys,TYPE,TYPE,True,True,True,True,G | TYPE | JANE DOE
+28,2,macys,CLICK,CLICK,True,True,True,True,C | CLICK | 
+29,0,uniqlo,CLICK,CLICK,False,True,True,False,C | CLICK | 
+29,1,uniqlo,CLICK,CLICK,False,True,True,False,E | CLICK | 
+29,2,uniqlo,CLICK,CLICK,False,True,True,False,A | CLICK | 
+29,3,uniqlo,CLICK,CLICK,False,True,True,False,F | CLICK | 
+29,4,uniqlo,CLICK,CLICK,False,True,True,False,C | CLICK | 
+29,5,uniqlo,CLICK,CLICK,False,True,True,False,E | CLICK | 
+29,6,uniqlo,CLICK,CLICK,False,True,True,False,I | CLICK | 
+29,7,uniqlo,CLICK,CLICK,False,True,True,False,A | CLICK | 
+29,8,uniqlo,CLICK,CLICK,False,True,True,False,A | CLICK | 
+29,9,uniqlo,CLICK,CLICK,False,True,True,False,G | CLICK | 
+29,10,uniqlo,CLICK,CLICK,False,True,True,False,J | CLICK | 
+29,11,uniqlo,CLICK,CLICK,False,True,True,False,H | CLICK | 
+29,12,uniqlo,CLICK,CLICK,False,True,True,False,J | CLICK | 
+29,13,uniqlo,CLICK,CLICK,True,True,True,True,C | CLICK | 
+29,14,uniqlo,CLICK,CLICK,True,True,True,True,G | CLICK | 
+30,0,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+30,1,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+30,2,bestbuy,CLICK,CLICK,True,True,True,True,J | CLICK | 
+30,3,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+30,4,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+30,5,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+31,0,menards,CLICK,CLICK,False,True,True,False,G | CLICK | 
+31,1,menards,TYPE,TYPE,True,True,True,True,D | TYPE | 82718
+31,3,menards,CLICK,CLICK,False,True,True,False,B | CLICK | 
+31,4,menards,CLICK,CLICK,False,True,True,False,D | CLICK | 
+31,5,menards,CLICK,CLICK,True,True,True,True,D | CLICK | 
+32,0,bestbuy,TYPE,TYPE,True,True,False,False,G | TYPE | 30-inch digital display induction cooktop with auto shut off and hot surface indication
+32,1,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+32,2,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+32,3,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+32,4,bestbuy,SELECT,CLICK,False,False,True,False,F | CLICK | 
+32,5,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+32,6,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+32,7,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+32,8,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+32,9,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+32,10,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+33,0,carmax,TYPE,TYPE,True,True,False,False,B | TYPE | 2022 Tesla Model 3
+33,1,carmax,CLICK,CLICK,False,True,True,False,I | CLICK | 
+33,2,carmax,CLICK,CLICK,True,True,True,True,C | CLICK | 
+33,3,carmax,CLICK,CLICK,True,True,True,True,A | CLICK | 
+33,4,carmax,CLICK,CLICK,True,True,True,True,H | CLICK | 
+33,5,carmax,CLICK,CLICK,False,True,True,False,D | CLICK | 
+33,6,carmax,CLICK,CLICK,False,True,True,False,G | CLICK | 
+34,0,kohls,CLICK,CLICK,False,True,True,False,F | CLICK | 
+34,1,kohls,CLICK,TYPE,False,False,True,False,I | TYPE | women's plus size brown color loungewear 3xl
+34,2,kohls,CLICK,CLICK,False,True,True,False,G | CLICK | 
+34,3,kohls,CLICK,CLICK,False,True,True,False,A | CLICK | 
+34,4,kohls,CLICK,CLICK,True,True,True,True,E | CLICK | 
+34,5,kohls,CLICK,CLICK,False,True,True,False,J | CLICK | 
+34,6,kohls,CLICK,CLICK,False,True,True,False,D | CLICK | 
+34,7,kohls,CLICK,CLICK,False,True,True,False,D | CLICK | 
+34,8,kohls,CLICK,CLICK,True,True,True,True,B | CLICK | 
+35,0,target,TYPE,TYPE,True,True,False,False,A | TYPE | queen-sized bed sheets
+35,1,target,CLICK,CLICK,False,True,True,False,A | CLICK | 
+35,2,target,CLICK,CLICK,True,True,True,True,D | CLICK | 
+35,3,target,CLICK,CLICK,True,True,True,True,I | CLICK | 
+36,0,shopping.google,TYPE,TYPE,True,True,False,False,F | TYPE | Google Pixel 7 snow 128gb
+36,1,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+36,2,shopping.google,CLICK,CLICK,False,True,True,False,G | CLICK | 
+36,3,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+36,4,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+36,5,shopping.google,CLICK,CLICK,True,True,True,True,B | CLICK | 
+36,6,shopping.google,CLICK,CLICK,False,True,True,False,F | CLICK | 
+37,0,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+37,1,bestbuy,TYPE,TYPE,True,True,True,True,H | TYPE | 20001
+37,2,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+37,3,bestbuy,SELECT,SELECT,True,True,True,True,E | SELECT | 5 miles
+37,4,bestbuy,TYPE,CLICK,False,False,False,False,E | CLICK | 
+37,5,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+37,6,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+37,7,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+38,1,kohls,CLICK,CLICK,False,True,True,False,B | CLICK | 
+38,2,kohls,CLICK,CLICK,True,True,True,True,I | CLICK | 
+38,3,kohls,CLICK,CLICK,True,True,True,True,F | CLICK | 
+38,4,kohls,CLICK,CLICK,True,True,True,True,C | CLICK | 
+38,5,kohls,CLICK,CLICK,True,True,True,True,C | CLICK | 
+38,6,kohls,CLICK,CLICK,False,True,True,False,I | CLICK | 
+38,7,kohls,CLICK,CLICK,True,True,True,True,D | CLICK | 
+39,0,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+39,1,shopping.google,CLICK,CLICK,True,True,True,True,D | CLICK | 
+40,0,apple,CLICK,CLICK,True,True,True,True,G | CLICK | 
+40,1,apple,CLICK,CLICK,True,True,True,True,D | CLICK | 
+40,2,apple,CLICK,CLICK,False,True,True,False,A | CLICK | 
+40,3,apple,CLICK,CLICK,False,True,True,False,B | CLICK | 
+41,0,cars,CLICK,CLICK,True,True,True,True,A | CLICK | 
+41,1,cars,CLICK,CLICK,True,True,True,True,F | CLICK | 
+41,2,cars,SELECT,TYPE,True,False,True,False,F | TYPE | 50000
+41,3,cars,SELECT,SELECT,True,True,True,True,G | SELECT | 50 miles
+41,4,cars,TYPE,CLICK,False,False,False,False,I | CLICK | 
+41,5,cars,CLICK,CLICK,True,True,True,True,I | CLICK | 
+42,0,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+42,1,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+42,2,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+42,3,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+42,4,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+42,5,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+42,6,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+43,0,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+43,1,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+43,2,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+43,3,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+43,4,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+43,5,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+43,6,macys,TYPE,TYPE,True,True,True,True,E | TYPE | 0
+43,7,macys,TYPE,TYPE,True,True,True,True,I | TYPE | 10
+43,8,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+43,9,macys,SELECT,CLICK,False,False,True,False,E | CLICK | 
+43,11,macys,CLICK,CLICK,True,True,True,True,I | CLICK | 
+44,0,cars,SELECT,SELECT,True,True,True,True,C | SELECT | 8 Cylinder
+44,1,cars,SELECT,SELECT,True,True,True,True,B | SELECT | BMW
+44,2,cars,CLICK,CLICK,True,True,True,True,D | CLICK | 
+44,3,cars,SELECT,SELECT,True,True,True,True,B | SELECT | 25000
+44,4,cars,SELECT,SELECT,True,True,True,True,"I | SELECT | $50,000"
+44,5,cars,SELECT,SELECT,True,True,True,True,B | SELECT | 2005
+44,6,cars,SELECT,SELECT,True,True,True,True,H | SELECT | 2015
+44,7,cars,SELECT,SELECT,True,True,True,True,D | SELECT | 50000
+44,8,cars,CLICK,CLICK,False,True,True,False,A | CLICK | 
+44,9,cars,CLICK,CLICK,False,True,True,False,B | CLICK | 
+44,10,cars,SELECT,CLICK,True,False,True,False,B | CLICK | 
+45,0,cabelas,CLICK,CLICK,True,True,True,True,B | CLICK | 
+45,1,cabelas,CLICK,CLICK,True,True,True,True,C | CLICK | 
+45,2,cabelas,CLICK,CLICK,False,True,True,False,D | CLICK | 
+45,3,cabelas,CLICK,CLICK,False,True,True,False,E | CLICK | 
+46,0,gamestop,CLICK,CLICK,False,True,True,False,D | CLICK | 
+46,1,gamestop,CLICK,CLICK,True,True,True,True,H | CLICK | 
+46,2,gamestop,CLICK,CLICK,False,True,True,False,C | CLICK | 
+46,3,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+46,4,gamestop,TYPE,TYPE,True,True,True,True,D | TYPE | Elden Ring
+46,5,gamestop,CLICK,CLICK,False,True,True,False,C | CLICK | 
+46,6,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+46,7,gamestop,CLICK,CLICK,False,True,True,False,D | CLICK | 
+46,8,gamestop,CLICK,CLICK,False,True,True,False,B | CLICK | 
+46,9,gamestop,CLICK,CLICK,True,True,True,True,H | CLICK | 
+46,10,gamestop,CLICK,CLICK,True,True,True,True,F | CLICK | 
+46,11,gamestop,CLICK,CLICK,True,True,True,True,F | CLICK | 
+47,0,cvs,CLICK,CLICK,True,True,True,True,I | CLICK | 
+47,1,cvs,CLICK,CLICK,False,True,True,False,B | CLICK | 
+47,2,cvs,CLICK,CLICK,True,True,True,True,H | CLICK | 
+47,3,cvs,CLICK,TYPE,False,False,True,False,E | TYPE | user@example.com
+47,4,cvs,CLICK,TYPE,False,False,True,False,H | TYPE | user@example.com
+47,5,cvs,CLICK,TYPE,True,False,True,False,E | TYPE | 01/01/1990
+47,6,cvs,TYPE,TYPE,True,True,False,False,B | TYPE | 01/01/1990
+47,7,cvs,CLICK,CLICK,True,True,True,True,C | CLICK | 
+47,8,cvs,CLICK,TYPE,False,False,True,False,I | TYPE | 123456789
+47,9,cvs,TYPE,TYPE,True,True,False,False,A | TYPE | 1234567890
+47,10,cvs,TYPE,TYPE,True,True,False,False,B | TYPE | 123 Main St
+47,11,cvs,TYPE,TYPE,False,True,False,False,D | TYPE | test@example.com
+47,12,cvs,SELECT,SELECT,True,True,True,True,D | SELECT | 
+47,13,cvs,TYPE,TYPE,True,True,True,True,C | TYPE | 10001
+47,14,cvs,CLICK,CLICK,True,True,True,True,I | CLICK | 
+48,0,rei,CLICK,CLICK,True,True,True,True,A | CLICK | 
+48,1,rei,SELECT,SELECT,True,True,True,True,F | SELECT | mountain biking
+48,2,rei,TYPE,TYPE,True,True,True,True,F | TYPE | New York City
+48,3,rei,CLICK,CLICK,False,True,True,False,C | CLICK | 
+48,4,rei,CLICK,CLICK,True,True,True,True,F | CLICK | 
+48,5,rei,CLICK,CLICK,False,True,True,False,C | CLICK | 
+48,6,rei,CLICK,CLICK,True,True,True,True,J | CLICK | 
+48,7,rei,CLICK,CLICK,True,True,True,True,B | CLICK | 
+48,8,rei,CLICK,CLICK,True,True,True,True,A | CLICK | 
+48,9,rei,TYPE,TYPE,True,True,False,False,B | TYPE | joe@joebloggs.com
+48,10,rei,TYPE,TYPE,True,True,True,True,A | TYPE | Bloggs
+48,11,rei,TYPE,TYPE,True,True,True,True,F | TYPE | joe@joebloggs.com
+48,12,rei,TYPE,TYPE,False,True,True,False,D | TYPE | 1111111111
+48,13,rei,CLICK,CLICK,True,True,True,True,C | CLICK | 
+48,14,rei,TYPE,TYPE,True,True,False,False,A | TYPE | 6 ft height
+48,15,rei,TYPE,TYPE,True,True,False,False,H | TYPE | 2222222222
+48,16,rei,TYPE,TYPE,True,True,True,True,F | TYPE | 2222222222
+48,17,rei,CLICK,TYPE,False,False,True,False,B | TYPE | 2222222222
+48,18,rei,CLICK,CLICK,False,True,True,False,H | CLICK | 
+48,19,rei,TYPE,TYPE,False,True,False,False,A | TYPE | 2222222222
+48,20,rei,TYPE,CLICK,True,False,False,False,D | CLICK | 
+48,21,rei,CLICK,CLICK,True,True,True,True,I | CLICK | 
+48,22,rei,CLICK,CLICK,False,True,True,False,H | CLICK | 
+48,23,rei,CLICK,CLICK,False,True,True,False,J | CLICK | 
+48,24,rei,CLICK,CLICK,False,True,True,False,H | CLICK | 
+48,25,rei,CLICK,CLICK,True,True,True,True,B | CLICK | 
+48,26,rei,CLICK,TYPE,False,False,True,False,A | TYPE | 
+49,0,macys,CLICK,TYPE,False,False,True,False,F | TYPE | baby shoes under 20 dollars rated 5 stars
+49,1,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+49,2,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+49,3,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+49,4,macys,CLICK,CLICK,False,True,True,False,I | CLICK | 
+49,5,macys,CLICK,CLICK,True,True,True,True,H | CLICK | 
+50,0,kbb,CLICK,CLICK,False,True,True,False,A | CLICK | 
+50,1,kbb,SELECT,CLICK,True,False,True,False,E | CLICK | 
+50,2,kbb,CLICK,CLICK,False,True,True,False,C | CLICK | 
+50,3,kbb,SELECT,SELECT,True,True,True,True,B | SELECT | lowest price
+51,0,underarmour,CLICK,CLICK,False,True,True,False,B | CLICK | 
+51,1,underarmour,CLICK,CLICK,True,True,True,True,D | CLICK | 
+51,2,underarmour,CLICK,CLICK,False,True,True,False,C | CLICK | 
+51,3,underarmour,CLICK,CLICK,False,True,True,False,I | CLICK | 
+51,4,underarmour,CLICK,CLICK,False,True,True,False,D | CLICK | 
+51,5,underarmour,CLICK,CLICK,False,True,True,False,C | CLICK |
+51,6,underarmour,CLICK,CLICK,False,True,True,False,H | CLICK | 
+51,7,underarmour,CLICK,CLICK,True,True,True,True,E | CLICK | 
+51,8,underarmour,CLICK,CLICK,False,True,True,False,G | CLICK | 
+51,9,underarmour,CLICK,CLICK,True,True,True,True,J | CLICK | 
+51,10,underarmour,CLICK,CLICK,False,True,True,False,E | CLICK | 
+51,11,underarmour,CLICK,CLICK,False,True,True,False,D | CLICK | 
+51,12,underarmour,CLICK,CLICK,True,True,True,True,C | CLICK | 
+51,13,underarmour,CLICK,CLICK,True,True,True,True,I | CLICK | 
+51,14,underarmour,CLICK,CLICK,True,True,True,True,I | CLICK | 
+52,0,menards,CLICK,CLICK,False,True,True,False,C | CLICK | 
+52,1,menards,CLICK,CLICK,False,True,True,False,J | CLICK | 
+52,3,menards,CLICK,CLICK,True,True,True,True,D | CLICK | 
+52,4,menards,TYPE,TYPE,True,True,True,True,A | TYPE | Bathroom Remodeling
+52,5,menards,CLICK,CLICK,True,True,True,True,E | CLICK | 
+53,0,shopping.google,TYPE,TYPE,True,True,False,False,"I | TYPE | Samsung LG 27""-32"" 4k IPS monitor"
+53,1,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+53,2,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+53,3,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+53,4,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+53,5,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+53,6,shopping.google,CLICK,CLICK,False,True,True,False,I | CLICK | 
+53,7,shopping.google,CLICK,CLICK,True,True,True,True,C | CLICK | 
+53,8,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+53,9,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+54,0,ikea,CLICK,CLICK,False,True,True,False,C | CLICK | 
+54,1,ikea,SELECT,CLICK,False,False,True,False,C | CLICK | 
+54,2,ikea,CLICK,CLICK,True,True,True,True,D | CLICK | 
+54,3,ikea,CLICK,CLICK,True,True,True,True,F | CLICK | 
+54,4,ikea,CLICK,CLICK,True,True,True,True,G | CLICK | 
+55,0,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+55,1,bestbuy,CLICK,CLICK,False,True,True,False,G | CLICK | 
+55,2,bestbuy,CLICK,CLICK,False,True,True,False,F | CLICK | 
+55,3,bestbuy,CLICK,CLICK,False,True,True,False,C | CLICK | 
+55,4,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+55,5,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+55,6,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+55,7,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+55,8,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+55,9,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+55,10,bestbuy,CLICK,CLICK,False,True,True,False,C | CLICK | 
+55,11,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+55,12,bestbuy,CLICK,CLICK,True,True,True,True,F | CLICK | 
+56,0,newegg,CLICK,CLICK,True,True,True,True,I | CLICK | 
+56,1,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+56,2,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+56,3,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+56,4,newegg,CLICK,CLICK,False,True,True,False,G | CLICK | 
+56,5,newegg,CLICK,CLICK,False,True,True,False,A | CLICK | 
+56,6,newegg,CLICK,CLICK,False,True,True,False,E | CLICK | 
+56,7,newegg,CLICK,CLICK,True,True,True,True,H | CLICK | 
+56,8,newegg,CLICK,CLICK,True,True,True,True,H | CLICK | 
+57,0,cars,CLICK,CLICK,False,True,True,False,D | CLICK | 
+57,1,cars,SELECT,SELECT,True,True,True,True,J | SELECT | 4C
+57,2,cars,SELECT,SELECT,True,True,True,True,B | SELECT | 4C
+57,3,cars,CLICK,CLICK,True,True,True,True,H | CLICK | 
+58,0,rei,CLICK,CLICK,False,True,True,False,B | CLICK | 
+58,1,rei,CLICK,CLICK,False,True,True,False,D | CLICK | 
+59,0,instacart,CLICK,CLICK,True,True,True,True,B | CLICK | 
+59,1,instacart,CLICK,CLICK,True,True,True,True,A | CLICK | 
+60,0,bookdepository,CLICK,CLICK,True,True,True,True,D | CLICK | 
+60,1,bookdepository,TYPE,TYPE,True,True,True,True,H | TYPE | Stephen King
+60,2,bookdepository,SELECT,SELECT,True,True,True,True,D | SELECT | de
+60,3,bookdepository,CLICK,CLICK,True,True,True,True,E | CLICK | 
+61,0,underarmour,CLICK,CLICK,False,True,True,False,B | CLICK | 
+61,1,underarmour,CLICK,CLICK,False,True,True,False,D | CLICK | 
+61,2,underarmour,TYPE,TYPE,True,True,True,True,F | TYPE | John
+61,3,underarmour,TYPE,TYPE,True,True,True,True,C | TYPE | abc@test.com
+61,4,underarmour,TYPE,TYPE,True,True,True,True,H | TYPE | buckeye.foobar@gmail.com
+61,5,underarmour,TYPE,TYPE,True,True,True,True,G | TYPE | 100
+61,6,underarmour,CLICK,TYPE,True,False,True,False,A | TYPE | gift card
+61,7,underarmour,TYPE,TYPE,True,True,True,True,C | TYPE | gift card
+61,8,underarmour,CLICK,CLICK,True,True,True,True,E | CLICK | 
+62,0,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+62,1,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+62,2,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+62,3,macys,TYPE,TYPE,True,True,True,True,A | TYPE | New Home
+62,4,macys,CLICK,CLICK,True,True,True,True,I | CLICK | 
+62,5,macys,CLICK,CLICK,True,True,True,True,J | CLICK | 
+62,6,macys,TYPE,TYPE,True,True,False,False,B | TYPE | recliner chair
+62,7,macys,CLICK,CLICK,False,True,True,False,J | CLICK | 
+62,8,macys,SELECT,CLICK,False,False,True,False,D | CLICK | 
+62,9,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+62,10,macys,CLICK,CLICK,True,True,True,True,E | CLICK | 
+63,0,cars,CLICK,TYPE,False,False,True,False,C | TYPE | Cadillac dealer near 60606 with rating above 4 stars
+63,1,cars,SELECT,SELECT,True,True,True,True,C | SELECT | 20 miles
+63,2,cars,TYPE,CLICK,False,False,False,False,E | CLICK | 
+63,3,cars,SELECT,CLICK,False,False,True,False,F | CLICK | 
+63,4,cars,CLICK,CLICK,False,True,True,False,E | CLICK | 
+63,5,cars,SELECT,SELECT,True,True,True,True,J | SELECT | 4 & up
+64,0,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+64,1,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+64,2,macys,CLICK,CLICK,True,True,True,True,D | CLICK | 
+64,3,macys,CLICK,CLICK,False,True,True,False,J | CLICK | 
+64,4,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+64,5,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+64,6,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+64,7,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+64,8,macys,CLICK,CLICK,True,True,True,True,C | CLICK | 
+64,9,macys,CLICK,CLICK,True,True,True,True,E | CLICK | 
+65,0,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+65,1,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+65,2,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+65,3,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+65,4,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+65,5,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+65,6,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+65,7,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+65,8,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+65,9,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+65,10,macys,SELECT,CLICK,False,False,True,False,H | CLICK | 
+65,11,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+66,0,newegg,TYPE,TYPE,True,True,True,True,J | TYPE | SSD
+66,1,newegg,CLICK,CLICK,True,True,True,True,E | CLICK | 
+66,2,newegg,SELECT,CLICK,False,False,True,False,G | CLICK | 
+66,3,newegg,CLICK,CLICK,True,True,True,True,J | CLICK | 
+67,0,cars,SELECT,SELECT,True,True,True,True,H | SELECT | used
+67,1,cars,SELECT,SELECT,True,True,True,True,F | SELECT | audi 100
+67,2,cars,SELECT,SELECT,True,True,True,True,I | SELECT | 
+67,3,cars,CLICK,CLICK,True,True,True,True,D | CLICK | 
+67,4,cars,SELECT,SELECT,True,True,True,True,D | SELECT | best deal
+68,0,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+68,1,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+68,2,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+68,3,macys,CLICK,CLICK,False,True,True,False,F | CLICK | 
+68,4,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+68,5,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+68,6,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+68,7,macys,CLICK,CLICK,True,True,True,True,F | CLICK | 
+68,8,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+69,0,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+69,1,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+69,2,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+69,3,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+69,4,bestbuy,CLICK,CLICK,False,True,True,False,F | CLICK | 
+69,5,bestbuy,CLICK,CLICK,True,True,True,True,J | CLICK | 
+69,6,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+69,7,bestbuy,CLICK,CLICK,True,True,True,True,F | CLICK | 
+69,9,bestbuy,CLICK,CLICK,False,True,True,False,H | CLICK | 
+69,10,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+69,11,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+70,0,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+70,1,macys,TYPE,TYPE,True,True,True,True,D | TYPE | 12345
+70,2,macys,TYPE,TYPE,True,True,True,True,I | TYPE | 12345@gmail.com
+70,3,macys,CLICK,CLICK,True,True,True,True,J | CLICK | 
+71,0,target,CLICK,TYPE,False,False,True,False,F | TYPE | Human resources jobs in Miami Florida
+71,1,target,CLICK,CLICK,True,True,True,True,G | CLICK | 
+71,2,target,CLICK,SELECT,False,False,True,False,J | SELECT | Human resources
+71,3,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+71,4,target,CLICK,CLICK,False,True,True,False,F | CLICK | 
+71,5,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+71,6,target,CLICK,CLICK,True,True,True,True,B | CLICK | 
+71,7,target,CLICK,TYPE,False,False,True,False,"E | TYPE | Miami, Florida"
+71,8,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+71,9,target,CLICK,CLICK,False,True,True,False,G | CLICK | 
+72,0,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+72,1,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+72,2,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+72,3,macys,SELECT,CLICK,False,False,True,False,G | CLICK | 
+72,5,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+72,6,macys,CLICK,CLICK,True,True,True,True,J | CLICK | 
+73,0,cabelas,CLICK,CLICK,True,True,True,True,B | CLICK | 
+73,1,cabelas,CLICK,CLICK,False,True,True,False,B | CLICK | 
+73,2,cabelas,CLICK,CLICK,False,True,True,False,D | CLICK | 
+73,3,cabelas,CLICK,CLICK,True,True,True,True,C | CLICK | 
+73,4,cabelas,CLICK,CLICK,False,True,True,False,J | CLICK | 
+73,5,cabelas,CLICK,CLICK,True,True,True,True,G | CLICK | 
+73,6,cabelas,CLICK,CLICK,False,True,True,False,D | CLICK | 
+73,7,cabelas,CLICK,CLICK,False,True,True,False,C | CLICK | 
+73,8,cabelas,CLICK,CLICK,False,True,True,False,I | CLICK | 
+74,0,kohls,TYPE,TYPE,True,True,False,False,D | TYPE | men's winter coats size large clearance
+74,1,kohls,CLICK,CLICK,True,True,True,True,D | CLICK | 
+74,2,kohls,CLICK,CLICK,False,True,True,False,H | CLICK | 
+74,3,kohls,CLICK,CLICK,True,True,True,True,F | CLICK | 
+74,4,kohls,CLICK,CLICK,False,True,True,False,E | CLICK | 
+74,5,kohls,CLICK,CLICK,True,True,True,True,J | CLICK | 
+75,0,shopping.google,CLICK,TYPE,True,False,True,False,F | TYPE | cat food
+75,1,shopping.google,TYPE,TYPE,True,True,True,True,A | TYPE | cat food
+75,2,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+75,3,shopping.google,CLICK,CLICK,False,True,True,False,E | CLICK | 
+75,4,shopping.google,CLICK,CLICK,True,True,True,True,B | CLICK | 
+75,5,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+76,0,amazon,CLICK,CLICK,False,True,True,False,D | CLICK | 
+76,1,amazon,CLICK,CLICK,False,True,True,False,I | CLICK | 
+76,2,amazon,CLICK,CLICK,False,True,True,False,C | CLICK | 
+76,3,amazon,CLICK,CLICK,False,True,True,False,C | CLICK | 
+76,4,amazon,CLICK,CLICK,False,True,True,False,B | CLICK | 
+76,5,amazon,CLICK,CLICK,False,True,True,False,G | CLICK | 
+76,6,amazon,CLICK,CLICK,False,True,True,False,B | CLICK | 
+76,7,amazon,CLICK,CLICK,False,True,True,False,E | CLICK | 
+76,8,amazon,TYPE,TYPE,True,True,True,True,E | TYPE | 2
+76,9,amazon,CLICK,CLICK,True,True,True,True,G | CLICK | 
+77,0,bestbuy,CLICK,CLICK,False,True,True,False,F | CLICK | 
+77,1,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+77,2,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+77,3,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+77,4,bestbuy,CLICK,CLICK,False,True,True,False,F | CLICK | 
+77,5,bestbuy,CLICK,CLICK,False,True,True,False,H | CLICK | 
+77,6,bestbuy,TYPE,TYPE,True,True,True,True,E | TYPE | 10001
+77,7,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+77,8,bestbuy,CLICK,CLICK,False,True,True,False,A | CLICK | 
+77,9,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+77,10,bestbuy,SELECT,CLICK,True,False,True,False,J | CLICK | 
+77,11,bestbuy,CLICK,CLICK,True,True,True,True,F | CLICK | 
+78,0,newegg,TYPE,TYPE,True,True,False,False,F | TYPE | drone 25-50 dollars
+78,1,newegg,CLICK,CLICK,True,True,True,True,G | CLICK | 
+78,2,newegg,CLICK,CLICK,False,True,True,False,H | CLICK | 
+78,3,newegg,CLICK,CLICK,True,True,True,True,D | CLICK | 
+78,4,newegg,CLICK,CLICK,False,True,True,False,C | CLICK | 
+78,5,newegg,CLICK,CLICK,False,True,True,False,C | CLICK | 
+78,6,newegg,CLICK,CLICK,False,True,True,False,H | CLICK | 
+78,7,newegg,CLICK,CLICK,False,True,True,False,I | CLICK |
+78,8,newegg,CLICK,CLICK,False,True,True,False,C | CLICK | 
+78,9,newegg,CLICK,CLICK,False,True,True,False,G | CLICK | 
+78,10,newegg,CLICK,CLICK,False,True,True,False,G | CLICK | 
+78,11,newegg,SELECT,CLICK,False,False,True,False,B | CLICK | 
+78,12,newegg,CLICK,CLICK,False,True,True,False,G | CLICK | 
+79,0,cabelas,CLICK,CLICK,False,True,True,False,B | CLICK | 
+79,1,cabelas,CLICK,CLICK,False,True,True,False,A | CLICK | 
+79,2,cabelas,CLICK,CLICK,False,True,True,False,E | CLICK | 
+79,3,cabelas,TYPE,TYPE,True,True,True,True,A | TYPE | 52554
+79,4,cabelas,CLICK,CLICK,True,True,True,True,J | CLICK | 
+79,5,cabelas,CLICK,CLICK,True,True,True,True,E | CLICK | 
+79,6,cabelas,CLICK,CLICK,False,True,True,False,I | CLICK | 
+79,7,cabelas,CLICK,CLICK,True,True,True,True,I | CLICK | 
+79,8,cabelas,CLICK,CLICK,False,True,True,False,D | CLICK | 
+79,9,cabelas,CLICK,CLICK,False,True,True,False,I | CLICK | 
+79,10,cabelas,CLICK,CLICK,False,True,True,False,J | CLICK | 
+80,0,cars,CLICK,CLICK,False,True,True,False,H | CLICK | 
+80,1,cars,SELECT,SELECT,True,True,True,True,G | SELECT | 2023 Audi A7
+80,2,cars,SELECT,SELECT,True,True,True,True,A | SELECT |  A7
+80,3,cars,SELECT,CLICK,False,False,True,False,E | CLICK | 
+80,4,cars,SELECT,SELECT,True,True,True,True,G | SELECT | A6
+80,5,cars,SELECT,SELECT,True,True,True,True,F | SELECT | A6
+80,6,cars,SELECT,SELECT,True,True,True,True,G | SELECT | 2023
+80,7,cars,CLICK,CLICK,False,True,True,False,H | CLICK | 
+80,8,cars,CLICK,CLICK,False,True,True,False,D | CLICK | 
+81,0,bestbuy,TYPE,TYPE,True,True,False,False,I | TYPE | gray galaxy s20 5G (Verizon) in good condition trade in value
+81,1,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+81,2,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+81,3,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+81,4,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+81,5,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+81,6,bestbuy,CLICK,CLICK,False,True,True,False,J | CLICK | 
+81,7,bestbuy,CLICK,TYPE,False,False,True,False,F | TYPE | gray galaxy s20 5G trade in value
+81,8,bestbuy,SELECT,SELECT,True,True,True,True,E | SELECT | Verizon
+81,9,bestbuy,SELECT,SELECT,True,True,True,True,G | SELECT | Galaxy S20 5G
+81,10,bestbuy,SELECT,CLICK,False,False,True,False,C | CLICK | 
+81,11,bestbuy,SELECT,SELECT,True,True,True,True,J | SELECT | Verizon
+81,12,bestbuy,CLICK,CLICK,True,True,True,True,I | CLICK | 
+81,13,bestbuy,CLICK,CLICK,False,True,True,False,F | CLICK | 
+81,14,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+81,15,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+81,16,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+82,0,cargurus,CLICK,CLICK,True,True,True,True,F | CLICK | 
+82,1,cargurus,SELECT,CLICK,True,False,True,False,C | CLICK | 
+82,2,cargurus,SELECT,SELECT,True,True,True,True,J | SELECT | Honda Crosstour 2012-2013
+82,3,cargurus,TYPE,TYPE,True,True,True,True,C | TYPE | 49102
+82,4,cargurus,CLICK,CLICK,True,True,True,True,E | CLICK | 
+82,5,cargurus,SELECT,CLICK,False,False,True,False,A | CLICK | 
+82,6,cargurus,CLICK,CLICK,False,True,True,False,B | CLICK | 
+82,7,cargurus,CLICK,CLICK,False,True,True,False,D | CLICK | 
+82,8,cargurus,SELECT,CLICK,True,False,True,False,A | CLICK | 
+83,0,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+83,1,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+83,2,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+83,3,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+83,4,bestbuy,CLICK,CLICK,True,True,True,True,F | CLICK | 
+83,5,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+83,6,bestbuy,SELECT,CLICK,False,False,True,False,C | CLICK | 
+84,0,rei,CLICK,CLICK,False,True,True,False,F | CLICK | 
+84,1,rei,CLICK,CLICK,False,True,True,False,A | CLICK | 
+84,2,rei,CLICK,CLICK,False,True,True,False,A | CLICK | 
+84,3,rei,CLICK,TYPE,True,False,True,False,A | TYPE | James Smith
+84,4,rei,TYPE,TYPE,True,True,True,True,G | TYPE | James Smith
+84,5,rei,TYPE,TYPE,False,True,False,False,C | TYPE | abc@abc.com
+84,6,rei,TYPE,TYPE,True,True,False,False,E | TYPE | 0.00
+84,7,rei,TYPE,TYPE,True,True,True,True,D | TYPE | abc@abc.com
+84,8,rei,TYPE,TYPE,True,True,True,True,H | TYPE | abc@abc.com
+84,9,rei,TYPE,TYPE,True,True,True,True,B | TYPE | Best Wishes
+84,10,rei,CLICK,CLICK,True,True,True,True,E | CLICK | 
+85,0,gamestop,TYPE,TYPE,True,True,True,True,A | TYPE | Playstation 5 digital edition
+85,1,gamestop,CLICK,CLICK,True,True,True,True,G | CLICK | 
+85,2,gamestop,CLICK,CLICK,False,True,True,False,H | CLICK | 
+86,0,newegg,CLICK,TYPE,True,False,True,False,C | TYPE | bluetooth vertical mouse
+86,1,newegg,TYPE,TYPE,True,True,True,True,G | TYPE | bluetooth vertical mouse
+86,2,newegg,CLICK,CLICK,False,True,True,False,B | CLICK | 
+86,3,newegg,SELECT,CLICK,False,False,True,False,C | CLICK | 
+86,4,newegg,CLICK,CLICK,False,True,True,False,C | CLICK | 
+86,5,newegg,CLICK,CLICK,True,True,True,True,J | CLICK | 
+86,6,newegg,CLICK,CLICK,True,True,True,True,B | CLICK | 
+87,0,kbb,CLICK,CLICK,False,True,True,False,B | CLICK | 
+87,1,kbb,CLICK,CLICK,False,True,True,False,C | CLICK | 
+87,2,kbb,SELECT,SELECT,True,True,True,True,J | SELECT | 2004-2012
+87,3,kbb,SELECT,SELECT,True,True,True,True,F | SELECT | 2012
+87,4,kbb,CLICK,CLICK,True,True,True,True,C | CLICK | 
+87,5,kbb,CLICK,CLICK,False,True,True,False,G | CLICK | 
+87,6,kbb,SELECT,SELECT,True,True,True,True,E | SELECT | Highest Price
+88,0,shopping.google,TYPE,TYPE,True,True,True,True,J | TYPE | Granitestone Sandwich Maker
+88,1,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+88,2,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+88,3,shopping.google,CLICK,CLICK,True,True,True,True,G | CLICK | 
+88,4,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+89,0,kohls,TYPE,TYPE,True,True,False,False,D | TYPE | coffee maker 5 stars
+89,1,kohls,CLICK,CLICK,True,True,True,True,A | CLICK | 
+89,2,kohls,CLICK,CLICK,False,True,True,False,F | CLICK | 
+89,3,kohls,CLICK,CLICK,True,True,True,True,H | CLICK | 
+90,0,amazon,TYPE,TYPE,True,True,False,False,I | TYPE | wireless headphones with active noise cancelling under $100
+90,1,amazon,CLICK,CLICK,False,True,True,False,C | CLICK | 
+90,2,amazon,TYPE,TYPE,True,True,True,True,C | TYPE | 100
+90,4,amazon,CLICK,CLICK,False,True,True,False,C | CLICK | 
+90,5,amazon,CLICK,CLICK,False,True,True,False,B | CLICK | 
+90,6,amazon,CLICK,CLICK,True,True,True,True,G | CLICK | 
+91,0,cars,CLICK,TYPE,False,False,True,False,A | TYPE | service and repair for a 2022 Audi e-tron
+91,1,cars,SELECT,SELECT,True,True,True,True,I | SELECT | 2022 Audi e-tron
+91,2,cars,SELECT,SELECT,True,True,True,True,G | SELECT | e-tron
+91,3,cars,SELECT,SELECT,True,True,True,True,I | SELECT | 2022
+91,4,cars,CLICK,CLICK,True,True,True,True,E | CLICK | 
+92,0,apple,CLICK,CLICK,False,True,True,False,E | CLICK | 
+92,1,apple,CLICK,CLICK,False,True,True,False,C | CLICK | 
+92,2,apple,CLICK,CLICK,False,True,True,False,E | CLICK | 
+93,0,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+93,1,shopping.google,TYPE,TYPE,True,True,False,False,I | TYPE | drip coffee maker black finish sale $25-$60
+93,2,shopping.google,CLICK,CLICK,True,True,True,True,H | CLICK | 
+93,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+93,4,shopping.google,CLICK,CLICK,False,True,True,False,I | CLICK | 
+93,5,shopping.google,CLICK,CLICK,False,True,True,False,E | CLICK | 
+93,6,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+94,0,bookdepository,TYPE,TYPE,True,True,False,False,C | TYPE | Game of Thrones toys
+94,1,bookdepository,CLICK,CLICK,False,True,True,False,E | CLICK | 
+94,2,bookdepository,SELECT,CLICK,False,False,True,False,H | CLICK | 
+94,3,bookdepository,SELECT,CLICK,False,False,True,False,E | CLICK | 
+94,4,bookdepository,CLICK,CLICK,True,True,True,True,A | CLICK | 
+94,5,bookdepository,SELECT,CLICK,False,False,True,False,J | CLICK | 
+94,6,bookdepository,CLICK,CLICK,False,True,True,False,G | CLICK | 
+94,7,bookdepository,CLICK,CLICK,True,True,True,True,D | CLICK | 
+94,8,bookdepository,CLICK,CLICK,True,True,True,True,E | CLICK | 
+94,9,bookdepository,CLICK,CLICK,True,True,True,True,H | CLICK | 
+94,10,bookdepository,CLICK,CLICK,True,True,True,True,G | CLICK | 
+95,0,macys,CLICK,TYPE,False,False,True,False,J | TYPE | Macy's E-Gift Card
+95,1,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+95,2,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+95,3,macys,CLICK,CLICK,False,True,True,False,F | CLICK | 
+95,5,macys,CLICK,CLICK,True,True,True,True,C | CLICK | 
+95,6,macys,TYPE,TYPE,True,True,True,True,J | TYPE | christenson@gmail.com
+95,7,macys,TYPE,TYPE,True,True,False,False,A | TYPE | Shak
+95,8,macys,TYPE,TYPE,True,True,True,True,H | TYPE | Shak
+95,9,macys,TYPE,TYPE,True,True,False,False,"F | TYPE | Happy birthday, wish you many more years to come"
+95,10,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+96,0,bestbuy,CLICK,CLICK,False,True,True,False,J | CLICK | 
+96,1,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+96,2,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+96,3,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+96,4,bestbuy,CLICK,CLICK,True,True,True,True,I | CLICK | 
+96,5,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+96,6,bestbuy,TYPE,TYPE,True,True,False,False,D | TYPE | 1000
+96,7,bestbuy,TYPE,TYPE,True,True,False,False,J | TYPE | 2000
+96,8,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+96,9,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+96,10,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+97,0,menards,TYPE,TYPE,True,True,False,False,I | TYPE | Swivel vacuum under $150
+97,2,menards,TYPE,TYPE,True,True,True,True,J | TYPE | 150
+97,3,menards,CLICK,CLICK,True,True,True,True,I | CLICK | 
+97,4,menards,CLICK,CLICK,True,True,True,True,H | CLICK | 
+98,0,carmax,CLICK,CLICK,False,True,True,False,A | CLICK | 
+98,1,carmax,CLICK,CLICK,False,True,True,False,B | CLICK | 
+98,2,carmax,CLICK,CLICK,True,True,True,True,G | CLICK | 
+98,3,carmax,TYPE,TYPE,True,True,True,True,D | TYPE | 49512
+98,5,carmax,CLICK,CLICK,True,True,True,True,C | CLICK | 
+98,6,carmax,CLICK,CLICK,False,True,True,False,C | CLICK | 
+98,7,carmax,CLICK,CLICK,False,True,True,False,E | CLICK | 
+98,8,carmax,CLICK,CLICK,False,True,True,False,H | CLICK | 
+99,0,kohls,CLICK,CLICK,False,True,True,False,B | CLICK | 
+99,1,kohls,CLICK,CLICK,True,True,True,True,A | CLICK | 
+99,2,kohls,CLICK,CLICK,False,True,True,False,E | CLICK | 
+99,3,kohls,SELECT,CLICK,False,False,True,False,B | CLICK | 
+100,0,underarmour,CLICK,CLICK,False,True,True,False,C | CLICK | 
+100,1,underarmour,CLICK,CLICK,False,True,True,False,C | CLICK | 
+100,2,underarmour,CLICK,CLICK,False,True,True,False,G | CLICK | 
+100,3,underarmour,CLICK,CLICK,False,True,True,False,F | CLICK | 
+101,0,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+101,1,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+101,2,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+101,3,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+101,4,macys,SELECT,CLICK,False,False,True,False,C | CLICK | 
+101,5,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+101,6,macys,CLICK,CLICK,False,True,True,False,F | CLICK | 
+101,7,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+101,8,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+101,9,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+101,10,macys,CLICK,CLICK,False,True,True,False,I | CLICK | 
+101,11,macys,CLICK,CLICK,False,True,True,False,F | CLICK | 
+101,12,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+101,13,macys,CLICK,CLICK,False,True,True,False,J | CLICK | 
+102,0,apple,CLICK,CLICK,False,True,True,False,A | CLICK | 
+102,1,apple,CLICK,CLICK,False,True,True,False,D | CLICK | 
+102,2,apple,CLICK,CLICK,False,True,True,False,H | CLICK | 
+102,3,apple,CLICK,CLICK,True,True,True,True,B | CLICK | 
+102,4,apple,CLICK,CLICK,False,True,True,False,I | CLICK | 
+102,5,apple,CLICK,CLICK,False,True,True,False,A | CLICK | 
+102,6,apple,CLICK,CLICK,True,True,True,True,C | CLICK | 
+102,7,apple,CLICK,CLICK,True,True,True,True,A | CLICK | 
+103,0,cars,CLICK,CLICK,False,True,True,False,B | CLICK | 
+103,1,cars,CLICK,CLICK,False,True,True,False,B | CLICK | 
+103,2,cars,SELECT,CLICK,True,False,True,False,J | CLICK | 
+103,3,cars,SELECT,CLICK,False,False,True,False,A | CLICK | 
+103,4,cars,SELECT,SELECT,True,True,True,True,"F | SELECT | 2003 CL, 2022 ILX"
+103,5,cars,SELECT,SELECT,True,True,True,True,G | SELECT | ILX
+103,6,cars,SELECT,SELECT,True,True,True,True,A | SELECT | 2003
+103,7,cars,SELECT,SELECT,True,True,True,True,D | SELECT | 2022
+103,8,cars,CLICK,CLICK,True,True,True,True,D | CLICK | 
+104,0,menards,CLICK,CLICK,True,True,True,True,A | CLICK | 
+104,1,menards,CLICK,CLICK,True,True,True,True,A | CLICK | 
+104,2,menards,CLICK,CLICK,False,True,True,False,D | CLICK | 
+104,3,menards,CLICK,CLICK,True,True,True,True,E | CLICK | 
+105,0,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+105,1,macys,CLICK,CLICK,False,True,True,False,B | CLICK | 
+105,2,macys,CLICK,CLICK,True,True,True,True,F | CLICK | 
+105,3,macys,CLICK,CLICK,True,True,True,True,E | CLICK | 
+106,0,shopping.google,CLICK,TYPE,True,False,True,False,H | TYPE | Samsung wireless earbuds
+106,1,shopping.google,TYPE,TYPE,True,True,False,False,F | TYPE | Samsung wireless earbuds
+106,2,shopping.google,CLICK,CLICK,False,True,True,False,B | CLICK | 
+106,3,shopping.google,CLICK,CLICK,False,True,True,False,F | CLICK | 
+106,4,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+106,5,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+107,0,shopping.google,CLICK,TYPE,True,False,True,False,B | TYPE | running shoes for men
+107,1,shopping.google,TYPE,TYPE,True,True,False,False,J | TYPE | running shoes for men
+107,2,shopping.google,CLICK,CLICK,True,True,True,True,H | CLICK | 
+107,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+108,0,kohls,CLICK,CLICK,False,True,True,False,C | CLICK | 
+108,1,kohls,CLICK,CLICK,True,True,True,True,H | CLICK | 
+108,2,kohls,CLICK,CLICK,False,True,True,False,A | CLICK | 
+108,3,kohls,CLICK,CLICK,False,True,True,False,C | CLICK | 
+108,4,kohls,CLICK,CLICK,True,True,True,True,B | CLICK | 
+108,5,kohls,CLICK,CLICK,True,True,True,True,H | CLICK | 
+108,6,kohls,CLICK,CLICK,False,True,True,False,F | CLICK | 
+108,7,kohls,CLICK,CLICK,False,True,True,False,G | CLICK | 
+108,8,kohls,CLICK,CLICK,False,True,True,False,I | CLICK | 
+108,9,kohls,CLICK,CLICK,True,True,True,True,D | CLICK | 
+109,0,apple,CLICK,CLICK,False,True,True,False,C | CLICK | 
+109,1,apple,CLICK,CLICK,False,True,True,False,C | CLICK | 
+109,2,apple,CLICK,CLICK,False,True,True,False,I | CLICK | 
+110,0,newegg,CLICK,CLICK,True,True,True,True,B | CLICK | 
+110,1,newegg,TYPE,TYPE,True,True,False,False,"F | TYPE | gaming pc with ryzen 9, rtx 6950xt, price $2000-$2500"
+110,2,newegg,CLICK,CLICK,False,True,True,False,A | CLICK | 
+110,3,newegg,CLICK,CLICK,True,True,True,True,C | CLICK | 
+111,0,bestbuy,TYPE,TYPE,True,True,False,False,A | TYPE | blue iPhone 13 256gb
+111,1,bestbuy,CLICK,CLICK,True,True,True,True,B | CLICK | 
+111,2,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+111,3,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+111,4,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+111,5,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+111,6,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+111,7,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+111,8,bestbuy,CLICK,CLICK,True,True,True,True,I | CLICK | 
+111,9,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+111,10,bestbuy,CLICK,CLICK,False,True,True,False,G | CLICK | 
+111,11,bestbuy,CLICK,CLICK,True,True,True,True,F | CLICK | 
+111,12,bestbuy,CLICK,CLICK,False,True,True,False,I | CLICK | 
+111,13,bestbuy,CLICK,CLICK,True,True,True,True,H | CLICK | 
+111,14,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+111,15,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+112,0,carmax,TYPE,TYPE,True,True,False,False,J | TYPE | Toyota Corolla 2018-2023 red
+112,1,carmax,CLICK,CLICK,False,True,True,False,B | CLICK | 
+112,2,carmax,CLICK,CLICK,False,True,True,False,A | CLICK | 
+112,4,carmax,CLICK,CLICK,True,True,True,True,C | CLICK | 
+112,5,carmax,CLICK,CLICK,False,True,True,False,F | CLICK | 
+112,7,carmax,CLICK,CLICK,True,True,True,True,C | CLICK | 
+112,8,carmax,CLICK,CLICK,True,True,True,True,B | CLICK | 
+113,0,shopping.google,TYPE,TYPE,True,True,False,False,J | TYPE | Nest Hello Video Doorbell reviews 1 star
+113,1,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+113,3,shopping.google,CLICK,TYPE,False,False,True,False,D | TYPE | 1 star
+113,4,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+114,0,carmax,TYPE,TYPE,True,True,False,False,I | TYPE | Chevrolet Silverado black exterior under $30000
+114,2,carmax,CLICK,CLICK,False,True,True,False,B | CLICK | 
+114,3,carmax,CLICK,CLICK,True,True,True,True,H | CLICK | 
+114,4,carmax,CLICK,CLICK,True,True,True,True,D | CLICK | 
+114,5,carmax,CLICK,CLICK,True,True,True,True,E | CLICK | 
+114,7,carmax,CLICK,CLICK,True,True,True,True,I | CLICK | 
+114,8,carmax,CLICK,CLICK,True,True,True,True,I | CLICK | 
+115,0,gamestop,CLICK,CLICK,False,True,True,False,C | CLICK | 
+115,1,gamestop,TYPE,TYPE,True,True,True,True,C | TYPE | 90028
+115,2,gamestop,CLICK,CLICK,True,True,True,True,E | CLICK | 
+115,3,gamestop,CLICK,CLICK,False,True,True,False,H | CLICK | 
+116,0,shopping.google,CLICK,TYPE,True,False,True,False,A | TYPE | smart TV 55-65 inches LED
+116,1,shopping.google,TYPE,TYPE,True,True,False,False,H | TYPE | smart TVs 55 to 65 inches LED display
+116,2,shopping.google,CLICK,CLICK,True,True,True,True,A | CLICK | 
+116,3,shopping.google,CLICK,CLICK,False,True,True,False,D | CLICK | 
+116,4,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+117,0,bestbuy,CLICK,CLICK,False,True,True,False,E | CLICK | 
+117,1,bestbuy,CLICK,CLICK,False,True,True,False,G | CLICK | 
+117,2,bestbuy,CLICK,CLICK,False,True,True,False,D | CLICK | 
+117,3,bestbuy,CLICK,CLICK,False,True,True,False,I | CLICK | 
+117,4,bestbuy,CLICK,CLICK,True,True,True,True,J | CLICK | 
+117,5,bestbuy,SELECT,CLICK,False,False,True,False,B | CLICK | 
+118,0,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+118,1,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+118,2,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+118,3,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+118,4,macys,CLICK,CLICK,False,True,True,False,D | CLICK | 
+118,5,macys,CLICK,CLICK,False,True,True,False,I | CLICK | 
+118,6,macys,CLICK,CLICK,True,True,True,True,G | CLICK | 
+118,7,macys,CLICK,CLICK,False,True,True,False,H | CLICK | 
+118,8,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+118,9,macys,SELECT,CLICK,False,False,True,False,F | CLICK | 
+118,10,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+118,12,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+118,13,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+118,14,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+118,15,macys,CLICK,CLICK,False,True,True,False,J | CLICK | 
+118,16,macys,CLICK,CLICK,False,True,True,False,G | CLICK | 
+119,0,ikea,CLICK,CLICK,False,True,True,False,A | CLICK | 
+119,2,ikea,CLICK,CLICK,False,True,True,False,B | CLICK | 
+119,3,ikea,CLICK,CLICK,False,True,True,False,C | CLICK | 
+119,4,ikea,CLICK,CLICK,False,True,True,False,C | CLICK | 
+119,5,ikea,CLICK,CLICK,False,True,True,False,A | CLICK | 
+119,6,ikea,CLICK,CLICK,False,True,True,False,B | CLICK | 
+119,7,ikea,CLICK,CLICK,False,True,True,False,A | CLICK | 
+119,8,ikea,CLICK,CLICK,False,True,True,False,H | CLICK | 
+119,9,ikea,CLICK,CLICK,True,True,True,True,I | CLICK | 
+119,10,ikea,CLICK,CLICK,False,True,True,False,D | CLICK | 
+119,11,ikea,CLICK,CLICK,True,True,True,True,H | CLICK | 
+119,12,ikea,CLICK,CLICK,True,True,True,True,F | CLICK | 
+119,13,ikea,CLICK,CLICK,True,True,True,True,A | CLICK | 
+119,14,ikea,CLICK,CLICK,True,True,True,True,J | CLICK | 
+119,15,ikea,CLICK,CLICK,False,True,True,False,B | CLICK | 
+120,0,uniqlo,CLICK,CLICK,False,True,True,False,I | CLICK | 
+120,1,uniqlo,CLICK,CLICK,True,True,True,True,H | CLICK | 
+120,2,uniqlo,CLICK,CLICK,True,True,True,True,E | CLICK | 
+120,3,uniqlo,CLICK,CLICK,False,True,True,False,B | CLICK | 
+120,4,uniqlo,CLICK,CLICK,False,True,True,False,F | CLICK | 
+120,5,uniqlo,CLICK,CLICK,True,True,True,True,I | CLICK | 
+120,6,uniqlo,CLICK,CLICK,True,True,True,True,G | CLICK | 
+120,7,uniqlo,CLICK,CLICK,False,True,True,False,C | CLICK | 
+121,0,kbb,CLICK,CLICK,False,True,True,False,A | CLICK | 
+121,1,kbb,CLICK,CLICK,False,True,True,False,A | CLICK | 
+121,2,kbb,TYPE,TYPE,True,True,True,True,B | TYPE | 42701
+121,3,kbb,SELECT,SELECT,True,True,True,True,A | SELECT | 10 miles
+121,4,kbb,CLICK,CLICK,True,True,True,True,E | CLICK | 
+121,5,kbb,CLICK,CLICK,False,True,True,False,B | CLICK | 
+121,6,kbb,CLICK,CLICK,False,True,True,False,D | CLICK | 
+121,8,kbb,CLICK,CLICK,False,True,True,False,B | CLICK | 
+121,9,kbb,CLICK,CLICK,False,True,True,False,A | CLICK | 
+121,10,kbb,CLICK,CLICK,False,True,True,False,A | CLICK | 
+121,11,kbb,CLICK,TYPE,True,False,True,False,G | TYPE | 04/17/2023
+121,13,kbb,SELECT,SELECT,True,True,True,True,G | SELECT | 4:00 PM
+121,14,kbb,CLICK,CLICK,True,True,True,True,J | CLICK | 
+121,15,kbb,TYPE,CLICK,True,False,False,False,D | CLICK | 
+121,16,kbb,TYPE,TYPE,True,True,True,True,A | TYPE | Smith
+121,17,kbb,CLICK,CLICK,True,True,True,True,A | CLICK | 
+122,0,target,TYPE,TYPE,True,True,False,False,H | TYPE | black decorative throw pillows
+122,1,target,CLICK,CLICK,True,True,True,True,B | CLICK | 
+122,2,target,CLICK,CLICK,False,True,True,False,F | CLICK | 
+122,3,target,CLICK,CLICK,True,True,True,True,C | CLICK | 
+122,4,target,CLICK,SELECT,False,False,True,False,E | SELECT | 
+122,5,target,CLICK,CLICK,True,True,True,True,A | CLICK | 
+122,6,target,CLICK,CLICK,True,True,True,True,G | CLICK | 
+122,7,target,CLICK,CLICK,True,True,True,True,H | CLICK | 
+123,0,bestbuy,TYPE,TYPE,True,True,False,False,D | TYPE | bluetooth wireless speakers on sale under $50
+123,2,bestbuy,CLICK,CLICK,False,True,True,False,B | CLICK | 
+123,3,bestbuy,CLICK,CLICK,True,True,True,True,E | CLICK | 
+123,4,bestbuy,CLICK,CLICK,True,True,True,True,G | CLICK | 
+123,5,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+124,0,carmax,TYPE,TYPE,True,True,False,False,F | TYPE | gas pickup truck 2010 2017 less than 80000 miles
+124,1,carmax,CLICK,TYPE,False,False,True,False,B | TYPE | gas pickup truck Fremont 2010 2017 less than 80000 miles
+124,2,carmax,CLICK,CLICK,True,True,True,True,J | CLICK | 
+124,3,carmax,CLICK,CLICK,True,True,True,True,E | CLICK | 
+124,4,carmax,TYPE,TYPE,True,True,False,False,"G | TYPE | Fremont, CA"
+124,6,carmax,CLICK,CLICK,True,True,True,True,D | CLICK | 
+124,7,carmax,CLICK,CLICK,False,True,True,False,B | CLICK | 
+124,8,carmax,CLICK,CLICK,True,True,True,True,I | CLICK | 
+124,10,carmax,CLICK,CLICK,True,True,True,True,C | CLICK | 
+124,11,carmax,CLICK,CLICK,True,True,True,True,E | CLICK | 
+124,12,carmax,CLICK,CLICK,True,True,True,True,E | CLICK | 
+124,13,carmax,CLICK,CLICK,True,True,True,True,I | CLICK | 
+124,14,carmax,CLICK,CLICK,True,True,True,True,G | CLICK | 
+124,16,carmax,CLICK,CLICK,True,True,True,True,J | CLICK | 
+124,17,carmax,TYPE,TYPE,False,True,True,False,H | TYPE | 80000
+124,18,carmax,CLICK,CLICK,True,True,True,True,E | CLICK | 
+125,0,bestbuy,TYPE,TYPE,True,True,False,False,C | TYPE | silver steel watch touch screen water resistance google assistance sale
+125,2,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+125,3,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+125,4,bestbuy,CLICK,CLICK,True,True,True,True,C | CLICK | 
+125,5,bestbuy,CLICK,CLICK,True,True,True,True,D | CLICK | 
+125,6,bestbuy,CLICK,CLICK,True,True,True,True,A | CLICK | 
+126,0,shopping.google,CLICK,TYPE,True,False,True,False,E | TYPE | electric coffee grinders
+126,1,shopping.google,TYPE,TYPE,True,True,False,False,E | TYPE | electric coffee grinders
+126,2,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+126,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+127,0,kohls,CLICK,CLICK,True,True,True,True,C | CLICK | 
+127,1,kohls,CLICK,CLICK,True,True,True,True,E | CLICK | 
+127,2,kohls,CLICK,CLICK,True,True,True,True,E | CLICK | 
+127,3,kohls,CLICK,CLICK,True,True,True,True,A | CLICK | 
+127,4,kohls,CLICK,CLICK,False,True,True,False,C | CLICK | 
+127,5,kohls,CLICK,CLICK,True,True,True,True,G | CLICK | 
+128,0,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+128,1,macys,CLICK,CLICK,True,True,True,True,B | CLICK | 
+128,2,macys,CLICK,CLICK,False,True,True,False,J | CLICK | 
+128,3,macys,CLICK,CLICK,False,True,True,False,C | CLICK | 
+128,4,macys,CLICK,CLICK,False,True,True,False,A | CLICK | 
+128,5,macys,CLICK,CLICK,False,True,True,False,F | CLICK | 
+128,6,macys,CLICK,CLICK,False,True,True,False,I | CLICK | 
+128,7,macys,CLICK,CLICK,True,True,True,True,A | CLICK | 
+128,8,macys,CLICK,CLICK,False,True,True,False,E | CLICK | 
+128,9,macys,CLICK,CLICK,True,True,True,True,J | CLICK | 
+128,10,macys,CLICK,CLICK,True,True,True,True,G | CLICK | 
+128,11,macys,CLICK,CLICK,True,True,True,True,E | CLICK | 
+128,12,macys,CLICK,CLICK,True,True,True,True,F | CLICK | 
+129,0,shopping.google,TYPE,TYPE,True,True,True,True,D | TYPE | Samsung Galaxy S22
+129,1,shopping.google,CLICK,CLICK,False,True,True,False,A | CLICK | 
+129,3,shopping.google,CLICK,CLICK,False,True,True,False,C | CLICK | 
+130,0,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+130,1,target,CLICK,CLICK,True,True,True,True,C | CLICK | 
+130,2,target,CLICK,CLICK,False,True,True,False,H | CLICK | 
+130,3,target,CLICK,TYPE,False,False,True,False,I | TYPE | septic safe mega-size toilet paper 24 count
+130,4,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+130,6,target,CLICK,CLICK,False,True,True,False,C | CLICK | 
+130,9,target,CLICK,CLICK,False,True,True,False,E | CLICK | 
+130,12,target,CLICK,CLICK,False,True,True,False,E | CLICK | 
+130,15,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+130,18,target,CLICK,CLICK,False,True,True,False,A | CLICK | 
+130,20,target,CLICK,CLICK,False,True,True,False,B | CLICK | 
+130,21,target,CLICK,CLICK,True,True,True,True,F | CLICK | 
+130,22,target,CLICK,CLICK,True,True,True,True,G | CLICK | 
+130,23,target,CLICK,CLICK,True,True,True,True,E | CLICK | 

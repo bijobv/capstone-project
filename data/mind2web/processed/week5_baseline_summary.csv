@@ -1,0 +1,7 @@
+baseline,metric,value
+schema.org rule-based,step accuracy (abstain=wrong),0.0%
+schema.org rule-based,coverage,0.0%
+zero-shot gpt-4o-mini,element accuracy,49.6%
+zero-shot gpt-4o-mini,operation F1 (macro),82.2%
+zero-shot gpt-4o-mini,step success rate,42.3%
+zero-shot gpt-4o-mini,task success rate,3.8%

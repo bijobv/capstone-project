@@ -1,0 +1,12 @@
+{
+  "label": "last1",
+  "history_len": 1,
+  "n_steps": 1036,
+  "n_tasks": 131,
+  "element_accuracy": 0.6274131274131274,
+  "operation_f1_macro": 0.7756615221318595,
+  "step_success_rate": 0.5974903474903475,
+  "task_success_rate": 0.08396946564885496,
+  "latency_mean_s": 1.4138056965463224,
+  "latency_median_s": 1.3488683114997002
+}

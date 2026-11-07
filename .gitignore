@@ -1,0 +1,13 @@
+.env
+.DS_Store
+*.bak_*
+
+# Raw Mind2Web downloads (re-downloadable, not needed for grading)
+data/mind2web/raw/
+
+# Large derived JSON dumps (regenerable from raw data via the notebooks)
+data/mind2web/processed/shopping_train.json
+data/mind2web/processed/shopping_test.json
+
+# Ranker model weights exceed GitHub's 100MB file limit; config/tokenizer kept
+data/mind2web/processed/shopping_ranker/model.safetensors
