@@ -2,7 +2,7 @@
 .DS_Store
 *.bak_*
 
-# Raw Mind2Web downloads (re-downloadable, not needed for grading)
+# Raw Mind2Web downloads (re-downloadable)
 data/mind2web/raw/
 
 # Large derived JSON dumps (regenerable from raw data via the notebooks)
